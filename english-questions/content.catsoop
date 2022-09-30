@@ -1,0 +1,40 @@
+# Introduction
+
+On this page, I will be attempting to learn to use CAT SOOP for teaching English
+
+
+# Fill in the blank questions. 
+
+<question smallbox>
+csq_name = "test_smallinput"
+csq_prompt = "Tony and Timmy ______ (to be) going to the store today"
+csq_soln = ["are", "will be"]
+csq_check_function = lambda sub, sol : sub.strip().lower() in sol
+csq_explanation = """
+Tony and Greg are two separate people whowe are talking about in the third person. 
+
+For future plans we can use thej present continuous or the future continuous"""
+</question>
+
+
+
+<question multiplechoice>
+csq_name = "test_mul"
+csq_renderer = 'radio'
+csq_prompt= """Fill in the blank:
+
+In the story ______ was known for carrying a shield.
+"""
+csq_options=['Cap', 'Hawk', 'Sam', 'Buck', 'Nat', 'Ran']
+csq_soln = csq_options[0]
+</question>
+
+For complicated options (that use math or other formatting, for example), the options can be rendered as radio buttons:
+
+<question multiplechoice>
+csq_name = "test_check"
+csq_renderer = "checkbox"
+csq_prompt="Which of the following can be a singular pronoun?"
+csq_options=["They", "We", "I", "She"]
+csq_soln = [True, False, True, True]
+</question>
