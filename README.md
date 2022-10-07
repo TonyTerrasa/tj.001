@@ -1,27 +1,33 @@
 # Welcome
 
-Hello, this is my first attempt at a CATSOOP course for learning English! My goal is to use this as a starting point for being able to take student feedback through this system for both private lessons and for in school materials. 
+Hello, this is my first attempt at a CATSOOP course for learning English! The purpose of this site is to post materials and and questions for use in both private and for in-school lessons. 
 
-My goals basic goals are to be able to:
-- [ ] post various types of questions with instant feedback including multiple choice, fill in the blank
-- [ ] post readings for students to read
-- [ ] publish the site so it can be available publicly for my students
+My basic goals were to:
+- [x] post various types of questions with instant feedback including multiple choice, fill in the blank
+- [x] post readings for students to read
+- [x] publish the site so it can be available publicly for my students
 
-My stretch goals would be to: 
+All of these having now be achieved, I'm moving towards:
 - [ ] create and store student accounts
-- [ ] allow students to submit extended response questions to me xso that I can read them on my own
+- [ ] allow students to submit extended response questions to me so that I can read them on my own
 
 
+# Standing CATSOOP Questions
+
+- how to direct the domain directly to the website, not to the CATSOOP home
+- how go set up student accounts?
+- how to allow students to turn in files (like if I want to be able to listen to their audio)
+- can I have people record audio from their webbrowser and turn it in?
+ 
 # Progress Log
 
-## Things I am considering posting on the forum
+## October 8 2022
 
-- is there support for markdown checklists, could potentially be based on [these](https://github.blog/2014-04-28-task-lists-in-all-markdown-documents/)
-- how go set up student accounts?
-- can I have people record audio from their webbrowser and turn it in?
-- how to allow students to turn in files (like if I want to be able to listen to their audio)
+First sucessful deployment where you could access the site from a public URL. 
 
-## September 16
+For right now, I don't like that if you go to the domain, you get to the page home catsoop page. Instead, I want the URL to go directly to the page.
+
+## September 16 2022
 
 Today, I learned that in order to see real changes as I am making them, I need not restart catsoop, rather just reload the page
 
