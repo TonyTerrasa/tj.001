@@ -18,9 +18,7 @@ cs_markdown_ignore_tags = ('script', 'svg', 'textarea')
 #  * text: the text to show for the link
 #  * link: the target of the link (either a URL or another list of this same form)
 cs_top_menu = [
-    {'link': 'COURSE', 'text': 'Homepage'},
     {'text': 'Pages', 'link': [
-                                {'text': 'Irregular Verbs', 'link': 'COURSE/irregular-verbs'},
                                 {'text': 'Recommended Resources', 'link': 'COURSE/resources'},
                               ]},
 #    {'text': 'Sample Menu', 'link': [
