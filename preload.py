@@ -20,9 +20,7 @@ cs_markdown_ignore_tags = ('script', 'svg', 'textarea')
 cs_top_menu = [
     {'link': 'COURSE', 'text': 'Homepage'},
     {'text': 'Pages', 'link': [
-                                {'text': 'Sample English Questions', 'link': 'COURSE/english-questions'},
-                                {'text': 'Markdown', 'link': 'COURSE/markdown'},
-                                {'text': 'Question Help', 'link': 'COURSE/questions-from-sample'},
+                                {'text': 'Irregular Verbs', 'link': 'COURSE/irregular-verbs'},
                                 {'text': 'Recommended Resources', 'link': 'COURSE/resources'},
                               ]},
 #    {'text': 'Sample Menu', 'link': [
