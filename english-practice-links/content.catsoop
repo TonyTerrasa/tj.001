@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Practice English Exercises</h1>
+<p>Hello! On this you'll find links to a variety of exercises for if you want to practice English on your own on the computor. I will be updating the page regularly so that there are ways to practice all the things that you want</p>
+
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#irregular_verbs">Irregular Verbs</a></li>
+</ul>
+
+<h1 id="irregular_verbs">Irregular Verbs</h1>
+<ul>
+<li><a href="https://www.perfect-english-grammar.com/irregular-verbs-exercise-1.html">Past Tense Verb Exeercises</a>(If you click around there are more examples on this page)</li>
+<li><a href="https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb/irregular-verbs/e/intro-to-irregular-verbs">Khan Academy Exercises</a></li>
+</ul>
+</body>
+
+</html>

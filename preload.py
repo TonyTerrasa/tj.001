@@ -17,20 +17,12 @@ cs_markdown_ignore_tags = ('script', 'svg', 'textarea')
 # each dictionary defines one menu item and should contain two keys:
 #  * text: the text to show for the link
 #  * link: the target of the link (either a URL or another list of this same form)
+resources= {'text': 'Recommended Resources', 'link': 'COURSE/resources'}
+english_practice_links= {'text': 'Additional Practice', 'link': 'COURSE/english-practice-links'}
 cs_top_menu = [
-    {'text': 'Pages', 'link': [
-                                {'text': 'Recommended Resources', 'link': 'COURSE/resources'},
-                              ]},
-#    {'text': 'Sample Menu', 'link': [
-#                                     {'link': 'COURSE/calendar', 'text': 'Calendar and Handouts'},
-#                                     {'link': 'COURSE/announcements', 'text': 'Archived Announcements'},
-#                                     'divider',
-#                                     {'link': 'COURSE/information', 'text': 'Basic Information'},
-#                                     {'link': 'COURSE/schedule_staff', 'text': 'Schedule and Staff'},
-#                                     {'link': 'COURSE/grading', 'text': 'Grading Policies'},
-#                                     {'link': 'COURSE/collaboration', 'text': 'Collaboration Policy'},
-#                                    ]},
-#    {'text': 'Piazza', 'link': 'https://piazza.com/mit/spring17/601'},
+        resources,
+        english_practice_links,
+
 ]
 
 
