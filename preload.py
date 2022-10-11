@@ -18,10 +18,14 @@ cs_markdown_ignore_tags = ('script', 'svg', 'textarea')
 #  * text: the text to show for the link
 #  * link: the target of the link (either a URL or another list of this same form)
 resources= {'text': 'Recommended Resources', 'link': 'COURSE/resources'}
-english_practice_links= {'text': 'Additional Practice', 'link': 'COURSE/english-practice-links'}
+english_practice_links= {'text': 'Additional Exercises', 'link': 'COURSE/english-practice-links'}
 transcriptions = {'text': 'Transcriptions', 'link': 'COURSE/transcriptions'}
 cs_top_menu = [
-        english_practice_links,
+        {'text' : "Practice", 'link': [
+            english_practice_links,
+            transcriptions,
+            ]
+         },
         resources,
 
 ]
