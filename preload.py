@@ -20,7 +20,9 @@ cs_markdown_ignore_tags = ('script', 'svg', 'textarea')
 resources= {'text': 'Recommended Resources', 'link': 'COURSE/resources'}
 english_practice_links= {'text': 'Additional Practice', 'link': 'COURSE/english-practice-links'}
 transcriptions = {'text': 'Transcriptions', 'link': 'COURSE/transcriptions'}
+live_music = {'text': 'Live Music Project', 'link': 'COURSE/live-music'}
 cs_top_menu = [
+        live_music,
         english_practice_links,
         resources,
 
