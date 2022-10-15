@@ -1,1 +1,1 @@
-cs_long_name = 'transcriptions'
+cs_long_name = 'Transcriptions'
