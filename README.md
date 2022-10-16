@@ -8,18 +8,28 @@ My basic goals were to:
 - [x] publish the site so it can be available publicly for my students
 
 All of these having now be achieved, I'm moving towards:
-- [ ] create and store student accounts
+- [x] create and store student accounts
+- [x] how to direct the domain directly to the website, not to the CATSOOP home (might at some point submit this to the documentation)
+- [x] how go set up student accounts?
 - [ ] allow students to submit extended response questions to me so that I can read them on my own
 
 
 # Standing CATSOOP Questions
 
-- how to direct the domain directly to the website, not to the CATSOOP home
-- how go set up student accounts?
 - how to allow students to turn in files (like if I want to be able to listen to their audio)
 - can I have people record audio from their webbrowser and turn it in?
  
 # Progress Log
+
+## October 16 2022
+
+I've now successfully used the website as a way to distribute information and instructions in class. 
+
+I was able to fix the issue of having the domain go directly to my specific CATSOOP page (not the default CATSOOP landing page). 
+
+I've figured out how to make it so that students can make accounts. Problem is that as far as I can tell, CATSOOP is looking at the authentication type specified in my server's catsoop config, not the authentication type specified in the `preload.py`. 
+
+Specifically for my applications, as I'm adding a lot of new content to the site constantly. 
 
 ## October 8 2022
 
