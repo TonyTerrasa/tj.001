@@ -21,7 +21,9 @@ resources= {'text': 'Recommended Resources', 'link': 'COURSE/resources'}
 english_practice_links= {'text': 'Additional Exercises', 'link': 'COURSE/english-practice-links'}
 transcriptions = {'text': 'Transcriptions', 'link': 'COURSE/transcriptions'}
 live_music = {'text': 'Live Music Project', 'link': 'COURSE/live-music'}
+phonetics = {'text': 'Phonetics', 'link': 'COURSE/phonetics'}
 cs_top_menu = [
+        phonetics, 
         {'text' : "Practice", 'link': [
             english_practice_links,
             transcriptions,
