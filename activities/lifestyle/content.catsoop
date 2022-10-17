@@ -1,4 +1,11 @@
-
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+</style>
 <h2>Introduction</h2>
 
 
@@ -17,7 +24,7 @@ Many large newspapers and magazines divide their content into <strong>sections</
 <p>
 
 
-<img src="COURSE/activities/lifestyle/nyt-sections.png" width="600" alt="New York Times Sections">
+<img src="COURSE/activities/lifestyle/nyt-sections.png" class="center" alt="New York Times Sections">
 
 </p>
 <p>
@@ -26,7 +33,7 @@ Many publications also have a lifestyle section. We will use this section to exp
 <p>
 
 
-<img src="COURSE/activities/lifestyle/lifestyle-section.png" width="600" alt="Lifestyle Section">
+<img src="COURSE/activities/lifestyle/lifestyle-section.png" class="center" alt="Lifestyle Section">
 
 </p>
 <h2>Your Assignment</h2>
@@ -75,12 +82,14 @@ Your articles can but don’t need to be all from the same newspaper or magazine
 <p>
 
 
+<figure class="center">
 <img src="COURSE/activities/lifestyle/fact-rating.png" alt="Lifestyle Section">
-
-</p>
-<p>
+<figcaption>
 Factual Reporting rating from Media Bias Fact check. 
+</figcaption>
+</figure>
 </p>
+
 <p>
 When you finish, you will email your assignment as a PDF to Tony (tony.terrasa@aula.colegioliceoconsul.es) and Fátima (fatima.garridopozo@aula.colegioliceoconsul.es). You can use any program you like to create your report. 
 </p>
