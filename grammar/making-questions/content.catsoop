@@ -1,0 +1,111 @@
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+<p>
+Statements → Questions 
+</p>
+
+<table>
+  <tr>
+   <td><strong>Tense</strong>
+   </td>
+   <td><strong>Formula</strong>
+   </td>
+   <td><strong>Examples</strong>
+   </td>
+   <td rowspan="5" >
+
+<table>
+  <tr>
+   <td><strong>Verb</strong>
+   </td>
+   <td><strong>Present</strong>
+   </td>
+   <td><strong>Past</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>do
+   </td>
+   <td>do/does
+   </td>
+   <td>did
+   </td>
+  </tr>
+  <tr>
+   <td>be
+   </td>
+   <td>am/are/is
+   </td>
+   <td>was/were
+   </td>
+  </tr>
+</table>
+
+
+   </td>
+  </tr>
+  <tr>
+   <td>Present Simple
+
+   </td>
+   <td>Affirmative: <span style="text-decoration:underline;">[do verb]</span> +  _[subject]_ +  **[simple form of the verb]** 
+
+Negative:  <span style="text-decoration:underline;">[do verb] + [not] </span> +  _[subject]_ +  **[simple form of the verb] **
+
+   </td>
+   <td>You play basketball → <span style="text-decoration:underline;">Do</span> _you_ **play basketball**?
+
+He doesn’t go to the movies →  <span style="text-decoration:underline;">Doesn’t</span> _he_ **go to the movies**?
+
+   </td>
+  </tr>
+  <tr>
+   <td>Past Simple 
+
+   </td>
+   <td>Affirmative: <span style="text-decoration:underline;">[do verb in past]</span> +  _[subject]_ +  **[simple form of the verb]** 
+
+Negative:  <span style="text-decoration:underline;">[do verb in past] + [not] </span> +  _[subject]_ +  **[simple form of the verb]**
+
+   </td>
+   <td>They went home →  <span style="text-decoration:underline;">Did</span> _they_ **go home**?<br>
+
+They didn't go home →  <span style="text-decoration:underline;">Didn’t</span> _they_ **go home**?
+
+   </td>
+  </tr>
+  <tr>
+   <td>Simple Continuous
+
+   </td>
+   <td>Affirmative: <span style="text-decoration:underline;">[be verb]</span> +  _[subject]_ +  **[-ing verb]** 
+
+Negative:  <span style="text-decoration:underline;">[be verb] + [not] </span> +  _[subject]_ +  **[-ing verb]** 
+
+   </td>
+   <td>He is going to the pool. → <span style="text-decoration:underline;">Is</span> _he_ **going to the pool**?
+
+I am sleeping. → <span style="text-decoration:underline;">Am</span> _I_ **sleeping**?
+
+   </td>
+  </tr>
+  <tr>
+   <td>Past Continuous
+
+   </td>
+   <td>Affirmative: <span style="text-decoration:underline;">[be verb in past]</span> +  _[subject]_ +  **[-ing verb]** 
+
+Negative:  <span style="text-decoration:underline;">[be verb in past] + [not] </span> +  _[subject]_ +  **[-ing verb]**
+
+   </td>
+   <td>He was going to the store → <span style="text-decoration:underline;">Was</span> _he_ **going to the store**?
+
+You weren’t going to the store. → <span style="text-decoration:underline;">Weren’t</span> _you_ **going to the store**?
+
+   </td>
+  </tr>
+</table>
+

@@ -22,7 +22,12 @@ english_practice_links= {'text': 'Additional Exercises', 'link': 'COURSE/english
 transcriptions = {'text': 'Transcriptions', 'link': 'COURSE/transcriptions'}
 live_music = {'text': 'Live Music Project', 'link': 'COURSE/live-music'}
 phonetics = {'text': 'Phonetics', 'link': 'COURSE/phonetics'}
+making_questions = {'text': 'Questions', 'link': 'COURSE/grammar/making-questions'}
 cs_top_menu = [
+        {'text' : "Grammar", 'link': [
+            making_questions,
+            ]
+         },
         phonetics, 
         {'text' : "Practice", 'link': [
             english_practice_links,
