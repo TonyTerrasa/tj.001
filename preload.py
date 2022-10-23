@@ -17,12 +17,13 @@ cs_markdown_ignore_tags = ('script', 'svg', 'textarea')
 # each dictionary defines one menu item and should contain two keys:
 #  * text: the text to show for the link
 #  * link: the target of the link (either a URL or another list of this same form)
-resources= {'text': 'Recommended Resources', 'link': 'COURSE/resources'}
-english_practice_links= {'text': 'Additional Exercises', 'link': 'COURSE/english-practice-links'}
-transcriptions = {'text': 'Transcriptions', 'link': 'COURSE/transcriptions'}
-live_music = {'text': 'Live Music Project', 'link': 'COURSE/live-music'}
+resources= {'text': 'Resources', 'link': 'COURSE/resources'}
 phonetics = {'text': 'Phonetics', 'link': 'COURSE/phonetics'}
 making_questions = {'text': 'Questions', 'link': 'COURSE/grammar/making-questions'}
+
+english_practice_links= {'text': 'Additional Exercises', 'link': 'COURSE/practice/english-practice-links'}
+hiphop = {'text': 'Hip Hop & Reggaeton', 'link': 'COURSE/practice/hiphop-musica-urbana'}
+transcriptions = {'text': 'Transcriptions', 'link': 'COURSE/practice/transcriptions'}
 
 music_festival_activity = {'text': 'Music Festival', 'link': 'COURSE/activities/live-music'}
 perspectives_activity = {'text': 'Make Your Own Perspective', 'link': 'COURSE/activities/perspectives-3c'}
@@ -42,6 +43,7 @@ cs_top_menu = [
         phonetics, 
         {'text' : "Practice", 'link': [
             english_practice_links,
+            hiphop,
             transcriptions,
             ]
          },

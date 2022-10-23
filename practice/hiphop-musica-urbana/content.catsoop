@@ -1,0 +1,305 @@
+<style>
+.center {
+    display: block;
+    margin-left: auto; 
+    margin-right: auto; 
+}
+
+
+.lyrics {
+
+    display:inline-block;
+    margin-left:3em;
+    font-style: italic;
+    
+}
+.rhyme1 {
+    color:red;
+    font-weight:bold;
+}
+.rhyme2 {
+    color:blue;
+    font-weight:bold;
+}
+.internal-rhyme1 {
+    color:red;
+    text-decoration:underline;
+}
+.internal-rhyme2 {
+    color:blue;
+    text-decoration:underline;
+}
+.internal-rhyme3 {
+    color:orange;
+    text-decoration:underline;
+}
+
+</style>
+<h2>Welcome</h2>
+
+
+<p>
+Hello! On this page, you’ll explore some the history and techniques behind the musics that many of us listen to today including: 
+</p>
+<ul>
+
+<li>Hip Hop
+
+<li>Rap
+
+<li>Trap
+
+<li>Reggaeton
+
+<li>Música Urbana
+</li>
+</ul>
+<p>
+Not sure what the difference is? Well, this is a good place to start :)
+</p>
+<h2>What is Musical Genre?</h2>
+
+
+<p>
+The question “what is musical genre?” is something you could take an entire college course about. 
+</p>
+<p>
+For this discussion, I want us to think about music genre as: 
+</p>
+<ul>
+
+<li>Continuous, meaning there is no line between “rap” and “trap,” rather there are songs that fall hard into one category and some that fall in between. That’s okay
+
+<li>A genre can be defined by <strong>musical characteristics </strong>(e.g. rhythm, meter, scales, lyrics) AS WELL AS <strong>cultural characteristics</strong> (e.g. the origin of a the music, who listens to the music, in what context we listen to music)
+</li>
+</ul>
+<p>
+If you are interested in learning about how powerful the <em>cultural</em> aspects of genre can be, I recommend reading <a href="https://www.okayplayer.com/originals/is-lil-nas-x-old-town-road-country-or-rap.html">this article</a> about trying to classify Lil Nas X’s <a href="https://www.youtube.com/watch?v=r7qovpFAGrQ&ab_channel=LilNasXVEVO">Old Town Road</a>. 
+</p>
+
+<h2>History or Hip Hop, Rap, and Reggaeton</h2>
+
+
+<p>
+Here are some videos to explore the history of these great musics. Feel free to watch whatever you want :)
+</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/10C-Q3NIlzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>
+If you want to see a more in-depth history of hip hop this <a href="https://www.youtube.com/watch?v=aCbcbKZjjdA&ab_channel=Gullygodx">documentary</a> is excellent.
+</p>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vMhAX3AjnEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p> Here's a video on the history of Trap music</p>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zKicD86F7KA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<p>
+In summary, the way that I like to think about the history/lineage of reggaeton goes like this: </p>
+
+<img src="COURSE/practice/hiphop-musica-urbana/reggaeton-history.png" width="70%">
+
+<h3>Reflection: </h3>
+
+
+<ol>
+
+<li>What did you learn? Where you surprised by anything?
+
+<li>Did you think that Reggaeton was born in Puerto Rico?
+</li>
+</ol>
+<h2>Intro: Things to Look for in Rap Vocabulary</h2>
+
+
+<h3>Words:</h3>
+
+
+<h4>Rhymes </h4>
+
+
+<p>
+This topic is discussed much more deeply below, but for now, know that rhyming is when we use similar sounds in different worlds. The most basic form comes in words like: 
+</p>
+<p class="lyrics">
+Time<br>
+Dime<br>
+Lime<br>
+</p>
+<h4>Word Play </h4>
+
+
+<p>
+Word play makes use of double meanings of words. For example: 
+</p>
+
+<p class="lyrics">
+I’ve got the gift like an elf <br>
+and been wrapping wraps around them like I’m a belt<br>
+</p>
+
+<p>
+Saba's Verse on the song <a href="https://youtu.be/qrG_czN8vjY?t=119">Ace</a>
+</p>
+<p>
+This uses the double meaning/homophone pair <em>rap</em> (like the music) and <em>wrap</em> (something you do to a gift or present). If you want to learn more, check out this <a href="https://literaryterms.net/wordplay/">article</a> on wordplay.
+</p>
+<h3>Delivery:</h3>
+
+Delivery focussed on <i>how</i> the words are said. 
+
+<h4>Rhythm (<em>when</em> the words are said)</h4>
+<p>
+An excellent example of varying your rhythms can be found in Tiago PZK’s Freestyle on the show TrapHouse:
+</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2H-yVs49M1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>One super common rhythm flow is the “triplet flow.” Here is a video on the triplet flow: 
+</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3la8bsi4P-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h4>Pitch (what does the rapper do with their voice?)</h4>
+<p>
+An excellent example of a rapper of using changes in pitch can be found in Smino’s Netflix & Dusse
+</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WOhJE8bLVzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h3>Combinations: </h3>
+
+
+<p>
+These can also interact. For example, the delivery and the pronunciation of a word in a specific way can create more rhymes that you would have if you spoke normally. 
+</p>
+<p>
+Example from the Song <a href="https://www.youtube.com/watch?v=kfPnhEqbmAE&ab_channel=deeroseinthechi">Touch the Sky</a>, Kayne West:
+</p>
+<p class="lyrics">
+        Now let's go, take 'em back to the <span class="rhyme1">plan</span><br>
+        Me and my momma hopped in that U-Haul <span class="rhyme1">van</span><br>
+        Any pessimists, I ain't talk to <span class="rhyme2">them</span><br>
+        Plus I ain't have no phone in my apart-a-<span class="rhyme2">ment</span>
+</p>
+<p>
+The words “them” and “apartment” are pronounced differently than normal to make them rhyme with “plan” and “van.” 
+</p>
+<h2>Rhyme Schemes</h2>
+
+
+<p>
+Where in each line and stanza do the words rhyme?
+</p>
+<p>
+There are many many more rhyme schemes, but these are just a few. See <a href="https://lyricworkroom.com/have-you-mastered-all-six-of-these-basic-rhyme-schemes/">this article</a> for an in-depth analysis of more.
+</p>
+<h3>AA (Sometimes called Couplets): </h3>
+
+
+<p>
+Words rhyme at the end of each line. 
+</p>
+<p>
+Example from the first verse in Noname’s <a href="https://youtu.be/2HPJNoH0WS4?t=36">Sunny Duet</a>
+</p>
+<p class="lyrics">
+    I used to have a name that look like butterflies and <strong>Hennessey</strong><br>
+    I'd trade it up for happiness but joyful don't <strong>remember me</strong>
+</p>
+
+
+<h3>AABAAB</h3>
+
+
+<p>
+Example from Samm Henshaw’s <a href="https://youtu.be/vDUkFJM0hjo?t=69">Chicken Wings</a>
+</p>
+<p>
+
+</p>
+
+<p class="lyrics">
+    Not my <span class="rhyme1">fault</span><br>
+    <span class="rhyme1">(A)</span> You keep it spicy like hot <span class="rhyme1">sauce</span> (Hot sauce, baby) <br>
+    <span class="rhyme1">(A)</span> Always remind me why I'm <span class="rhyme1">yours</span><br>
+    <span class="rhyme2">(B)</span> But you got a lot on your <span class="rhyme2">plate</span><br>
+    <span class="rhyme1">(A)</span> Ah, relax, rejuvenate and just eat <span class="rhyme1">snacks</span><br>
+    <span class="rhyme1">(A)</span> Your week's been long so just ease <span class="rhyme1">back</span> (So long)<br>
+    <span class="rhyme2">(B)</span> Don't chew more than you can<span class="rhyme2"> take</span>
+<p>
+<p>
+Also see <a href="https://www.youtube.com/watch?v=1sQjh261rU8&ab_channel=JeNnILoVeSmUsIc">To Zion </a>by Lauryn Hill
+</p>
+<h2>Types of Rhymes</h2>
+
+
+<p>
+We can also try to ask questions like:
+</p>
+<ul>
+
+<li>How closely do the words rhyme (<a href="https://www.masterclass.com/articles/poetry-101-what-is-a-rhyme-scheme-learn-about-rhymed-poems-with-examples#what-is-a-rhymed-poem">article</a> on how closely words rhyme)?
+
+<li>How many syllables in each word rhyme?
+
+<li>Do the rhymes come in stressed or unstressed syllables?
+
+<li>Is there any rhyming within each line (<a href="https://www.smartrapper.com/rhyme-scheme-rap/">article</a> which talks about where the rhymes fall within a line)?
+</li>
+</ul>
+<p>
+See the articles at the bottom of the page for more information. 
+</p>
+<p>
+Example of Internal Rhyme in Noname’s <a href="https://youtu.be/2HPJNoH0WS4?t=36">Sunny Duet</a> (from before)
+</p>
+<p class="lyrics">
+    <span class="internal-rhyme2">I</span> used to have a <span class="internal-rhyme1">name</span> that look <span class="internal-rhyme2">like</span></em> butter<span class="internal-rhyme2">flies</span> and <span class="internal-rhyme3">Hennessey</span><br>
+    <span class="internal-rhyme2">I'd</span> <span class="internal-rhyme1">trade</span></em> it up for happiness but joyful don't <span class="internal-rhyme3">remember me</span>
+</p>
+<h2>Rhyme Decomposition:</h2>
+
+
+<p>
+The diversity of ways rhymes can be used in poetry and rap has led to the development of the <em>rhyme decomposition</em>, a way of studying lyrics by highlighting all the rhymes in a particular verse. For example, you can find a rhyme decomposition of Lupe Fiasco’s verse on “Touch The Sky” which we saw earlier below. 
+</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/spPpJi6G8p8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h3>Reflection</h3>
+Think to yourself
+<ul>
+<li> What percentage of Lupe's verse rhymes with another part of the verse? 
+<li> Is that the way that we <b>normally</b> speak?
+<li> Does this change or inform the way you think about the skill needed to rap?
+</li>
+</ul>
+
+
+<h2>Exercise 1: Rhyme Decomposition</h2>
+
+
+<p>
+Pick 8 lines of a rap that you like
+</p>
+<p>
+Highlight/underline ALL the rhymes in those 8 lines.
+</p>
+<p>
+How many can you find?
+</p>
+<h2>Exercise 2: Practicing Rapping</h2>
+
+
+<p>
+Come up with 4 lines of rap in English. Focus at whatever level of complexity you would like. 
+</p>
+<ul>
+
+<li>Try starting with rhyming
+
+<li>If this is easy, try to think of some wordplay to incorporate
+</li>
+</ul>
