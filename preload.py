@@ -23,7 +23,18 @@ transcriptions = {'text': 'Transcriptions', 'link': 'COURSE/transcriptions'}
 live_music = {'text': 'Live Music Project', 'link': 'COURSE/live-music'}
 phonetics = {'text': 'Phonetics', 'link': 'COURSE/phonetics'}
 making_questions = {'text': 'Questions', 'link': 'COURSE/grammar/making-questions'}
+
+music_festival_activity = {'text': 'Music Festival', 'link': 'COURSE/activities/live-music'}
+perspectives_activity = {'text': 'Make Your Own Perspective', 'link': 'COURSE/activities/perspectives-3c'}
+lifestyle_activity = {'text': 'What is Lifestyle?', 'link': 'COURSE/activities/lifestyle'}
+
 cs_top_menu = [
+        {'text' : "Class Activities", 'link': [
+            perspectives_activity,
+            music_festival_activity,
+            lifestyle_activity,
+            ]
+         },
         {'text' : "Grammar", 'link': [
             making_questions,
             ]
