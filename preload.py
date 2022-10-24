@@ -25,12 +25,14 @@ english_practice_links= {'text': 'Additional Exercises', 'link': 'COURSE/practic
 hiphop = {'text': 'Hip Hop & Reggaeton', 'link': 'COURSE/practice/hiphop-musica-urbana'}
 transcriptions = {'text': 'Transcriptions', 'link': 'COURSE/practice/transcriptions'}
 
+halloween_craft_activity = {'text': 'Halloween TikTok Craft', 'link': 'COURSE/activities/halloween-tiktok'}
 music_festival_activity = {'text': 'Music Festival', 'link': 'COURSE/activities/live-music'}
 perspectives_activity = {'text': 'Make Your Own Perspective', 'link': 'COURSE/activities/perspectives-3c'}
 lifestyle_activity = {'text': 'What is Lifestyle?', 'link': 'COURSE/activities/lifestyle'}
 
 cs_top_menu = [
         {'text' : "Class Activities", 'link': [
+            halloween_craft_activity,
             perspectives_activity,
             music_festival_activity,
             lifestyle_activity,
