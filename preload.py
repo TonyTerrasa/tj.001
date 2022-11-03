@@ -29,6 +29,7 @@ halloween_craft_activity = {'text': 'Halloween TikTok Craft', 'link': 'COURSE/ac
 music_festival_activity = {'text': 'Music Festival', 'link': 'COURSE/activities/live-music'}
 perspectives_activity = {'text': 'Make Your Own Perspective', 'link': 'COURSE/activities/perspectives-3c'}
 lifestyle_activity = {'text': 'What is Lifestyle?', 'link': 'COURSE/activities/lifestyle'}
+tjlandia_activity = {'text': 'Teejaylandia', 'link': 'COURSE/activities/teejaylandia'}
 
 cs_top_menu = [
         {'text' : "Class Activities", 'link': [
@@ -36,6 +37,7 @@ cs_top_menu = [
             perspectives_activity,
             music_festival_activity,
             lifestyle_activity,
+            tjlandia_activity,
             ]
          },
         {'text' : "Grammar", 'link': [
