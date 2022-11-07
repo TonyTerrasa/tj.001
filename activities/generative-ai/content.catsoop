@@ -1,0 +1,53 @@
+<style>
+img {
+    height: 600px;
+    display: block;
+}
+</style>
+
+# Generative AI Competition
+In all of our classes, we've at least seen a little bit about generative AI and how it can be used to create wild images! If you want more information about generative AI, the presentation I did in class can did in class can be found below.  
+
+This week in our repaso, I want to have a competition for who can make the best image with the generative AI. "Best" can be: 
+- the funniest
+- the most interesting
+- the most colorful
+
+Whatever you want!
+
+
+At the end of the week, we will vote!
+
+
+## Competition
+
+Here's how it works:
+<ol>
+    <li> Create an account OR log in with <a href="https://labs.openai.com/">open AI</a>
+    <li> Enter English text in the prompt. 
+    <li> See what comes out!
+    <li> Have a good image? Submit it <a href="https://forms.gle/knEd4dEMr5bhTz6r8">here</a>. You will need to submit both the <b>image</b> and the <b>text</b> you used to make the image
+</li>https://labs.openai.com/
+</ol>
+
+## Generative AI presentation from class
+
+<a href="COURSE/activities/generative-ai/presentation.pdf">Here you can find the presentation we did in class on Generative AI 
+
+
+## Some Examples
+
+### "batman playing soccer in a hockey stadium"
+<img src="COURSE/activities/generative-ai/ex-1.png">
+
+### "a rabbit on a skateboard wearing a blue tee shirt"
+<img src="COURSE/activities/generative-ai/ex-2.png">
+
+### "a high school growing from a human ear"
+<img src="COURSE/activities/generative-ai/ex-3.png">
+
+### "futuristic city with flying cars next to a mountain and a lake"
+<img src="COURSE/activities/generative-ai/ex-4.png">
+
+### "goku eating bananas and mussels in a park"
+<img src="COURSE/activities/generative-ai/ex-5.png">
