@@ -1,0 +1,168 @@
+## Introduction
+
+My hope is that these questions will help demonstrate the vocabulary necessary for the exam. 
+
+Good luck, you're going to do great :)
+
+Tony
+
+## Quiz
+    <question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='We always __________ to the store on Saturdays.'
+    csq_options=['used', 'goed', 'used to go', 'has gone']
+    csq_soln = 'used to go'
+    </question>
+    
+
+    <question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='We suggest ________ the curry.'
+    csq_options=['you tries', 'you are trying', 'you that you try', 'you try']
+    csq_soln = 'you try'
+    </question>
+    
+
+    <question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I order you _____.'
+    csq_options=['that you smile', 'to smile', 'smile', 'smiles']
+    csq_soln = 'to smile'
+    </question>
+    
+
+    <question multiplechoice>
+    csq_renderer = 'checkbox'
+    csq_prompt='He _______ that he cheated.  (Check all that apply)'
+    csq_options=['denys', 'denais', 'denies', 'denied']
+    csq_soln = [False, False, True, True]
+    </question>
+    
+
+    <question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I ________ my friend, until he ________ me.'
+    csq_options=['used to depend on,used to threaten', 'used to depend on, threatened', 'depended, used to threaten', 'used to depend, threats']
+    csq_soln = 'used to depend on, threatened'
+    </question>
+    
+
+    <question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='The teacher ordered them _________.'
+    csq_options=['to believe they can do it', 'that they believed that they could do it', 'they believe they can do it', 'they don’t believe that they can do it']
+    csq_soln = 'to believe they can do it'
+    </question>
+    
+
+    <question multiplechoice>
+    csq_renderer = 'checkbox'
+    csq_prompt='I _______ you ______ the crocodile! (Check all that apply)'
+    csq_options=['warned, about', 'warned, of', 'warn,of', 'am warning you, about']
+    csq_soln = [True, False, False, True]
+    </question>
+    
+
+    <question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='Each week my friends _______ me ______ doing something illegal.'
+    csq_options=['talks, to', 'used to talk, about', 'used to talk, into', 'tell, into']
+    csq_soln = 'used to talk, into'
+    </question>
+    
+
+    <question multiplechoice>
+    csq_renderer = 'checkbox'
+    csq_prompt='We _____ it ______ us. (Check all that apply)'
+    csq_options=['claim, weren’t', 'used to claim, is', 'claim, wasn’t', 'claimed, wasn’t']
+    csq_soln = [False, False, True, True]
+    </question>
+    
+
+    <question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='She ________ when he _______ the room.'
+    csq_options=['was singing, comed into', 'was singing, came into', 'was singing, came on', 'singing, came into']
+    csq_soln = 'was singing, came into'
+    </question>
+    
+
+    <question multiplechoice>
+    csq_renderer = 'checkbox'
+    csq_prompt='The famous chef’s son really ________ his father in the kitchen. (Check all that apply)'
+    csq_options=['takens on', 'take on', 'takes after', 'takens after']
+    csq_soln = [False, False, True, True]
+    </question>
+    
+
+    <question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='______ the homework when my mom got home.'
+    csq_options=['I finish', 'I had finished', 'I had fish', 'I finishing']
+    csq_soln = 'I had finished'
+    </question>
+    
+
+    <question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='Why do bullies ______ people?'
+    csq_options=['pick on', 'pick in', 'pick through', 'pick down']
+    csq_soln = 'pick on'
+    </question>
+    
+
+    <question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='What ________ your favorite food as a kid?'
+    csq_options=['had been', 'had beed', 'used to be', 'used be']
+    csq_soln = 'used to be'
+    </question>
+    
+
+    <question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='They ________ us yesterday.'
+    csq_options=['warnes', 'warn', 'warned', 'warner']
+    csq_soln = 'warned'
+    </question>
+    
+
+    <question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='George _________ my best friend, but then I ______ him.'
+    csq_options=['used to be,smiled', 'died, used to fell out', 'being, falling', 'used to be,fell out with']
+    csq_soln = 'used to be,fell out with'
+    </question>
+    
+
+    <question multiplechoice>
+    csq_renderer = 'checkbox'
+    csq_prompt='I confess, I never _______ to music before. (Check all that apply)'
+    csq_options=['went', 'have listened', 'listened', 'always']
+    csq_soln = [False, True, True, False]
+    </question>
+    
+
+    <question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='Why would they ________  of doing something?'
+    csq_options=['accuse her', 'not accuse her', 'point to her', 'assume']
+    csq_soln = 'accuse her'
+    </question>
+    
+
+    <question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='Do you ________ any political party?'
+    csq_options=['identify for', 'identify yourself through', 'identify with', 'identify yourself inside']
+    csq_soln = 'identify with'
+    </question>
+    
+
+    <question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='She _______ she never _______ the mayor.'
+    csq_options=['claim, kills', 'claims, kills', 'had claimed, will kill', 'claims, killed']
+    csq_soln = 'claims, killed'
+    </question>
+    

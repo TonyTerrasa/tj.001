@@ -19,7 +19,9 @@ cs_markdown_ignore_tags = ('script', 'svg', 'textarea')
 #  * link: the target of the link (either a URL or another list of this same form)
 resources= {'text': 'Resources', 'link': 'COURSE/resources'}
 phonetics = {'text': 'Phonetics', 'link': 'COURSE/phonetics'}
+
 making_questions = {'text': 'Questions', 'link': 'COURSE/grammar/making-questions'}
+comparisons = {'text': 'Comparisons', 'link': 'COURSE/grammar/comparisons'}
 
 english_practice_links= {'text': 'Additional Exercises', 'link': 'COURSE/practice/english-practice-links'}
 hiphop = {'text': 'Hip Hop & Reggaeton', 'link': 'COURSE/practice/hiphop-musica-urbana'}
@@ -30,10 +32,12 @@ music_festival_activity = {'text': 'Music Festival', 'link': 'COURSE/activities/
 perspectives_activity = {'text': 'Make Your Own Perspective', 'link': 'COURSE/activities/perspectives-3c'}
 lifestyle_activity = {'text': 'What is Lifestyle?', 'link': 'COURSE/activities/lifestyle'}
 tjlandia_activity = {'text': 'Teejaylandia', 'link': 'COURSE/activities/teejaylandia'}
+generative_ai_activity = {'text': 'Generative AI Competition', 'link': 'COURSE/activities/generative-ai/'}
 
 cs_top_menu = [
         {'text' : "Class Activities", 'link': [
             halloween_craft_activity,
+            generative_ai_activity,
             perspectives_activity,
             music_festival_activity,
             lifestyle_activity,
@@ -41,6 +45,7 @@ cs_top_menu = [
             ]
          },
         {'text' : "Grammar", 'link': [
+            comparisons,
             making_questions,
             ]
          },
