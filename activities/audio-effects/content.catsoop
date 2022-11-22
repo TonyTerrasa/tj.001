@@ -1,0 +1,273 @@
+<style>
+.lyrics {
+
+    display:inline-block;
+    margin-left:3em;
+    font-style: italic;
+    
+}
+</style>
+
+<h2>Assignment</h2>
+
+
+<p>
+Today, we are going to explore different types of effects that we can add to our audios on <a href="https://twistedwave.com/online">Twisted Wave</a>.
+
+
+We will then <strong>put our audio in the powerpoint</strong>
+</p>
+
+
+
+<h2>Copy and Paste</h2>
+
+
+<p>
+The first exercise is not an effect, but rather an important skill for the rest of the exercises which is select, copy, and paste. Follow the steps bellow: 
+</p>
+<ol>
+<li>Record yourself saying “this is my voice”
+<li>Trim the silence and normalize the track 
+    <ol>
+    <li><strong><em>Highlight</em></strong> the silence
+    <li>Press Backspace
+    <li>Go to Effects -> Normalize
+    </li> 
+    </ol>
+<li>Copy the part where you speak 
+    <ol>
+    <li>Highlight the part of the audio where you speak. 
+    <li>Press 'Ctrl+C' 
+    <li>Place your clicker at the end of the audio. 
+    <li>Press 'Ctrl+V'. You should have the same audio 2 times. 
+    </li>
+    </ol>
+<li>Use these steps (highlight, 'Ctrl+C', 'Ctrl+V') to make your audio say: 
+</li>
+</ol>
+<p class="lyrics">
+this is my voice<br> 
+this is my voice<br> 
+this is my <br> 
+this is my<br> 
+this is my voice<br> 
+</p>
+<p>
+Upload the result! This is an example (but it should be in your voice)
+</p>
+
+<audio controls>
+  <source src="COURSE/activities/audio-effects/copy-paste.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+But if this doesn't work, use <a href="COURSE/activities/audio-effects/copy-paste.mp3">this link</a>
+
+<p>
+Here is a video of me doing the exercise for your reference
+</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MWRh0M_wyD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h2>Reverse</h2>
+
+
+<p>
+Now we will <em>reverse</em> our audio. We make the audio play backwards.
+</p>
+<ol>
+
+<li>Record yourself saying “this is my voice the right way forward”
+<li>Trim the silence and normalize the track 
+    <ol>
+    <li><strong><em>Highlight</em></strong> the silence
+    <li>Press Backspace
+    <li>Go to Effects -> Normalize
+    </li> 
+    </ol>
+<li>Copy the part where you speak. You should have the same audio 2 times.
+    <ol>
+    <li>Highlight the part of the audio where you speak. 
+    <li>Press 'Ctrl+C' 
+    <li>Place your clicker at the end of the audio. 
+    <li>Press 'Ctrl+V' 
+    </ol>
+
+<li>Now, highlight the <strong>copy</strong> of your voice. 
+<li>Click <em>Effects -> Reverse</em>
+<li>Play the audio to make sure it’s correct. 
+</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+<p>
+Now, we want to show you that the reverse effect is <strong>reversible</strong>. This means, if we apply the effect again,  we will get the original audio. Now:
+</p>
+<ol>
+
+<li>Highlight your <strong>reversed</strong> audio. And make a copy 
+<ol>
+ 
+<li>Press 'Ctrl+C' 
+ 
+<li>Place your clicker at the end of the audio. 
+ 
+<li>Press 'Ctrl+V' 
+</li> 
+</ol>
+
+<li>Highlight the 3rd copy of your original audio
+
+<li>Click <em>Effects -> Reverse</em>
+</li>
+</ol>
+<p>
+Upload the result! This is an example (but it should be in your voice)
+</p>
+
+<audio controls>
+  <source src="COURSE/activities/audio-effects/reversing.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+But if this doesn't work, use <a href="COURSE/activities/audio-effects/reversing.mp3">this link</a>
+
+
+<h2>Delay (Echo)</h2>
+
+
+<p>
+Now we will add <em>delay</em> to our audio. This adds an <em>echo</em> to the sound. Think as if you were in a really big canyon. 
+</p>
+<ol>
+
+<li>Record yourself saying “this clean or dry, this has delay”
+
+<li>Trim the silence and normalize the track 
+<ol>
+ 
+<li><strong><em>Highlight</em></strong> the silence
+ 
+<li>Press Backspace
+ 
+<li>Go to <em>Effects -> Normalize</em>
+</li> 
+</ol>
+
+<li>How, highlight the part of the audio where you say “this has delay”
+
+<li>Click <em>Effects -> VST Effects -> mdaDelay.so</em>
+
+<li>Click <em>Apply</em>
+
+<li>Play the audio to make sure it’s correct. 
+</li>
+</ol>
+<p>
+Upload the result! This is an example (but it should be in your voice)
+</p>
+
+
+<audio controls>
+  <source src="COURSE/activities/audio-effects/delay.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+But if this doesn't work, use <a href="COURSE/activities/audio-effects/delay.mp3">this link</a>
+
+
+<p>
+Here is a video of me doing the exercise
+</p>
+<h2>Reverb</h2>
+
+
+<p>
+Now we will add <em>reverb</em> to our audio. This makes it sound like your audio is happening in a room. People like this because it sounds more natural.
+</p>
+<ol>
+
+<li>Record yourself saying “this clean, this is with reverb”
+
+<li>Trim the silence and normalize the track 
+<ol>
+ 
+<li><strong><em>Highlight</em></strong> the silence
+ 
+<li>Press Backspace
+ 
+<li>Go to <em>Effects -> Normalize</em>
+</li> 
+</ol>
+
+<li>How, highlight the part of the audio where you say “this is with reverb”
+
+<li>Click <em>Effects -> VST Effects -> freeverb.so</em>
+
+<li>Adjust the “wet” and “dry” sliders to get something like what I have 
+
+<li>Click <em>Apply</em>
+
+<li>Play the audio to make sure it’s correct. 
+</li>
+</ol>
+<p>
+Upload the result! This is an example (but it should be in your voice)
+</p>
+
+
+
+<audio controls>
+  <source src="COURSE/activities/audio-effects/reverb.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+But if this doesn't work, use <a href="COURSE/activities/audio-effects/reverb.mp3">this link</a>
+
+
+<h2>Equalization (EQ)</h2>
+
+
+<p>
+Equalization edits the <em>frequencies</em> of the audio in the track. 
+</p>
+<ol>
+<li>Record yourself saying “this clean or dry, this has reverb”
+<li>Trim the silence and normalize the track 
+    <ol>
+    <li><strong><em>Highlight</em></strong> the silence
+    <li>Press Backspace
+    <li>Go to <em>Effects -> Normalize</em>
+    </li> 
+    </ol>
+<li>Cut the low frequencies of the psrt thst dsys “” 
+    <ol>
+    <li>Highlight the part where you say “”
+    <li>Click <em>Effects -> VST Effects -> EQ</em>
+    <li>Move the first 3 sliders to the bottom
+    <li>Click <em>Apply</em>
+    </li> 
+    </ol>
+<li>Do the same thing but for the top 3 slides and the middle 4 sliders for the sections with about the high and middle frequencies. Use the example as a guide.
+</li>
+</ol>
+
+<p>
+Upload the result! This is an example (but it should be in your voice)
+</p>
+
+<audio controls>
+  <source src="COURSE/activities/audio-effects/EQ.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+But if this doesn't work, use <a href="COURSE/activities/audio-effects/EQ.mp3">this link</a>
+
+
+
+<h2>Putting Audio in Google Slides</h2>
+Follow this YouTube video which explains how to insert audio into a Google Slide. In you current Google Slide presentation, add a slide which explains each effect we used today and contains your example. 
+
+Example slide: 
+
+<img src="COURSE/activities/audio-effects/audio-effects-slide.png" alt="Sample Google Slide" width="100%">
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JY_1EvatN-8?start=194" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
