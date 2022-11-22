@@ -33,9 +33,11 @@ perspectives_activity = {'text': 'Make Your Own Perspective', 'link': 'COURSE/ac
 lifestyle_activity = {'text': 'What is Lifestyle?', 'link': 'COURSE/activities/lifestyle'}
 tjlandia_activity = {'text': 'Teejaylandia', 'link': 'COURSE/activities/teejaylandia'}
 generative_ai_activity = {'text': 'Generative AI Competition', 'link': 'COURSE/activities/generative-ai/'}
+audio_effects_activity = {'text': 'Audio Effects', 'link': 'COURSE/activities/audio-effects/'}
 
 cs_top_menu = [
         {'text' : "Class Activities", 'link': [
+            audio_effects_activity,
             halloween_craft_activity,
             generative_ai_activity,
             perspectives_activity,
