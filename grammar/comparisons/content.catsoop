@@ -1,0 +1,233 @@
+ <style>
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: center
+      }
+    .image {
+        flex-basis: 50%;
+        width:40%;
+        order: 2;
+    }
+    .text {
+        padding-left: 20px;
+    }
+    table{
+        border-collapse:collapse;
+        border:1px solid #000000;
+    }
+
+    table td{
+        border:1px solid #000000;
+    }
+</style>
+
+ 
+<div class="container">
+    <div class="text">
+    <h2>Level 0: Warm up </h2>
+        <p>
+        John is 2 meters tall. <br>
+        Sam is 2 meters tall. <br>
+        </p>
+        <h3>Exercises</h3>
+        <ol>
+            <li>John and Sam ____ 2 meters tall. <br>
+            <li>Tony _____ 1.5 meters ______. 
+            </li>
+        </ol>
+    <h2>Level 1: Basics</h2>
+        <p>
+        John is <strong>taller than </strong>Tony.<br>
+        Sam is <strong>taller than </strong>Tony.  <br>
+        Tony is <strong>shorter</strong> <strong>than </strong>John.<br>
+        John is <strong>as tall as</strong> Sam. <br>
+        </p>
+        <h3>Exercises</h3>
+        <ol>
+        <li>Tony is ________ Sam. 
+        <li>Sam is _________ John.  
+        </li>
+        </ol>
+    </div>
+    <div class="image">
+        <img src="COURSE/grammar/comparisons/level-1.png" alt="Level 1">
+    </div>
+</div>
+
+<hr>
+
+<div class="container">
+    <div class="text">
+    <h2>Level 2: Modifiers</h2>
+        <p>
+        Carl is <strong>far taller</strong> than Tony.  <br>
+        Carl is <strong>much taller</strong> than Tony.  <br>
+        Alex is <strong>slightly taller</strong> than Tony.  <br>
+        Tony is <strong>not quite as tall as</strong> Alex. <br>
+        Tony is <strong>almost as tall as</strong> Alex. <br>
+        </p>
+        <h3>Exercises</h3>
+        <p>
+        <ol>
+        <li>Carl is __________ John.  
+        <li>Alex is <strong>not as </strong> __________ <strong>as</strong> Tony. 
+        </li>
+        </ol>
+        </p>
+    <h2>Level 3: Superlatives</h2>
+        <p>
+        Carl is <strong>the tallest</strong>.  
+        </p>
+        <h3>Exercises</h3>
+        <p>
+        Tony is ____________. 
+        </p>
+    </div>
+    <div class="image">
+        <img src="COURSE/grammar/comparisons/level-2.png" alt="Level 2">
+    </div>
+</div>
+
+<hr>
+
+
+<h2>Level 4: making the –er, -est </h2>
+ 
+<table>
+  <tr>
+   <td>
+<strong>Adj</strong> 
+   </td>
+   <td>
+<strong>More</strong> 
+   </td>
+   <td>
+<strong>Less</strong> 
+   </td>
+   <td>
+<strong>Superlative</strong> 
+   </td>
+  </tr>
+  <tr>
+   <td>
+Tall
+   </td>
+   <td>
+taller 
+   </td>
+   <td>
+Less tall/ 
+<p>
+
+Not as tall as 
+   </td>
+   <td>
+tallest 
+   </td>
+  </tr>
+  <tr>
+   <td>
+Short 
+   </td>
+   <td>
+Shorter 
+   </td>
+   <td>
+Less short not as short as 
+   </td>
+   <td>
+shortest 
+   </td>
+  </tr>
+  <tr>
+   <td>
+Fast 
+   </td>
+   <td>
+Faster 
+   </td>
+   <td>
+Less fast, not as fast as 
+   </td>
+   <td>
+fastest 
+   </td>
+  </tr>
+  <tr>
+   <td>
+Slow 
+   </td>
+   <td>
+Slower 
+   </td>
+   <td>
+Less slow, not as slow as 
+   </td>
+   <td>
+slowest 
+   </td>
+  </tr>
+  <tr>
+   <td>
+Easy 
+   </td>
+   <td>
+Easier 
+   </td>
+   <td>
+Less easy 
+   </td>
+   <td>
+easiest 
+   </td>
+  </tr>
+  <tr>
+   <td>
+Beautiful  
+   </td>
+   <td>
+More beautiful 
+   </td>
+   <td>
+Less beautiful 
+   </td>
+   <td>
+Most beautiful 
+   </td>
+  </tr>
+  <tr>
+   <td>
+Expensive 
+   </td>
+   <td>
+More expensive 
+   </td>
+   <td>
+Less expensive 
+   </td>
+   <td>
+Most expensive 
+   </td>
+  </tr>
+</table>
+
+</p>
+<p>
+So, for long adjectives, we use "the most _____" or "least ____" or "more/less ____ than."  However, for short adjectives, we add: "-er" or "-est" to the end of the adjective. 
+</p>
+
+<p>
+Practice with:
+</p>
+<ul>
+    <li>Cute 
+    <li>Crazy 
+    <li>Nervous 
+    <li>Healthy 
+    <li>Successful 
+    <li>Usual 
+    <li>Tense 
+    <li>Tasty 
+</li>
+</ul>
