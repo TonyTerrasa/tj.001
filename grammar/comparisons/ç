@@ -292,7 +292,7 @@ So, for long adjectives, we use "the most _____" or "least ____" or "more/less _
         </question>
         <question smallbox>
             csq_prompt = "Tense: "
-            csq_soln = 'tenser, less tense, tensest'
+            csq_soln = 'tenser, less tense, most tense'
             csq_check_function = lambda sub, sol: sub.lower().replace(" ", "") == sol.lower().replace(" ", "")
             csq_size = 30 # width of text box
         </question>
