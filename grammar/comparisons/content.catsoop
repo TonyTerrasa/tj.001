@@ -302,3 +302,103 @@ So, for long adjectives, we use "the most _____" or "least ____" or "more/less _
             csq_check_function = lambda sub, sol: sub.lower().replace(" ", "") == sol.lower().replace(" ", "")
             csq_size = 30 # width of text box
         </question>
+
+
+<h2>Extra Practice</h2>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='Winter is __________ summer.'
+    csq_options=['colder than', 'the same as', 'than colder', 'more cold than']
+    csq_soln = 'colder than'
+</question>
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='The sun is ___________ the Earth.'
+    csq_options=['same the', 'same as', 'much bigger than', 'bigger much than']
+    csq_soln = 'much bigger than'
+</question>
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='A dog has _______ a spider.'
+    csq_options=['legs more', 'less legs as', 'fewer legs as', 'fewer legs than']
+    csq_soln = 'fewer legs than'
+</question>
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='Who is the ______ of this class?'
+    csq_options=['the most tall', 'the tallest', 'the more tall', 'mostly tall']
+    csq_soln = 'the tallest'
+</question>
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='The _________ day of the year, it was 27º'
+    csq_options=['coldest', 'more cold', 'hottest', 'hotest']
+    csq_soln = 'hottest'
+</question>
+<question multiplechoice>
+    csq_renderer = 'checkbox'
+    csq_prompt='101 cm is _______  as big as 102 cm. (Check all that apply)'
+    csq_options=['almost', 'barely', 'very', 'not quite']
+    csq_soln = [True, False, False, True]
+</question>
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='Walking is _________ going by car.'
+    csq_options=['faster', 'more fast', 'slower what', 'slower than']
+    csq_soln = 'slower than'
+</question>
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='A Jeep is ____________ a Ferrari'
+    csq_options=['expensive like', 'not as expensive as', 'not quite as expensive as', 'expensive how']
+    csq_soln = 'not as expensive as'
+</question>
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='Madrid ___ noisier than the coutryside.'
+    csq_options=['has ', 'isn’t', 'is', 'being']
+    csq_soln = 'is'
+</question>
+<question multiplechoice>
+    csq_renderer = 'checkbox'
+    csq_prompt='Chocolate _________ vanilla. (Check all that apply)'
+    csq_options=['is more good than', 'is worser than', 'Is worse than', 'Is better than']
+    csq_soln = [False, False, True, True]
+</question>
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='The first class is __________ the last class.'
+    csq_options=['slightly longer than', 'longer little', 'not long', 'not long as']
+    csq_soln = 'slightly longer than'
+</question>
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='Mars is ______ closer than Pluto.'
+    csq_options=['not', 'far', 'lot', 'not quite as']
+    csq_soln = 'far'
+</question>
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='What is the _______ they are open?'
+    csq_options=['closest', 'latest', 'pinkest', 'most late']
+    csq_soln = 'latest'
+</question>
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I come from ________ I need to go by plane.'
+    csq_options=['so far that', 'so close that', 'close enough', 'so far']
+    csq_soln = 'so far that'
+</question>
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='LeBron James is almost ___________ fit into the door. '
+    csq_options=['too tall', 'too tall to', 'so tall', 'enough tall to']
+    csq_soln = 'too tall to'
+</question>
+<question multiplechoice>
+    csq_renderer = 'checkbox'
+    csq_prompt='Steph Curry is __________ he won MVP. (Check all that apply)'
+    csq_options=['so good', 'too good to', 'so good that', 'such a good player that']
+    csq_soln = [False, False, True, True]
+</question>
