@@ -1,0 +1,83 @@
+ <style>
+    .container {
+        display: flex;
+        align-items: left;
+        justify-content: left;
+      }
+    .image {
+        flex-basis: 50%;
+        width:40%;
+        order: 2;
+    }
+    .text {
+        padding-left: 20px;
+    }
+    table{
+        border-collapse:collapse;
+        border:1px solid #000000;
+    }
+
+    table td{
+        border:1px solid #000000;
+    }
+</style>
+
+ 
+<div class="container">
+    <div class="text">
+    <h2>A beach weekend </h2>
+    <p>
+    This week, my friend and I ____(1, go)____ to the beach. By the end of the weekend, we ____(2, relax)____ so much that we ____(3)____ (be ready) for our long work week next week. I ____(4, think)____  of ____(5, surf)____, but ____(6, realize)____ that I would be too tired if ____(7, surf)____
+    </p>
+    </div>
+</div>
+<question smallbox>
+    csq_prompt = "Number 1: "
+    csq_soln = ["will go", "are going"]
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    csq_explanation = " OR ".join(csq_soln)
+</question>
+<question smallbox>
+    csq_prompt = "Number 2: "
+    csq_soln = ["will have relaxed"]
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    csq_explanation = " OR ".join(csq_soln)
+</question>
+<question smallbox>
+    csq_prompt = "Number 3: "
+    csq_soln = ["will be ready", "'ll be ready"]
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    csq_explanation = " OR ".join(csq_soln)
+</question>
+<question smallbox>
+    csq_prompt = "Number 4: "
+    csq_soln = ["was thinking"]
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    csq_explanation = " OR ".join(csq_soln)
+</question>
+<question smallbox>
+    csq_prompt = "Number 5: "
+    csq_soln = ["surfing"]
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    csq_explanation = " OR ".join(csq_soln)
+</question>
+<question smallbox>
+    csq_prompt = "Number 6: "
+    csq_soln = ["i realized", "realized"]
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    csq_explanation = " OR ".join(csq_soln)
+</question>
+<question smallbox>
+    csq_prompt = "Number 7: "
+    csq_soln = ["surfed"]
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    csq_explanation = " OR ".join(csq_soln)
+</question>
+

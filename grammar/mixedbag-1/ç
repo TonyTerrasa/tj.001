@@ -1,0 +1,304 @@
+ <style>
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: center
+      }
+    .image {
+        flex-basis: 50%;
+        width:40%;
+        order: 2;
+    }
+    .text {
+        padding-left: 20px;
+    }
+    table{
+        border-collapse:collapse;
+        border:1px solid #000000;
+    }
+
+    table td{
+        border:1px solid #000000;
+    }
+</style>
+
+ 
+<div class="container">
+    <div class="text">
+    <h2>Level 0: Warm up </h2>
+        <h3>Examples</h3>
+        <p>
+        John is 2 meters <b>tall</b>. <br>
+        Sam is 2 meters <b>tall</b>. <br>
+        </p>
+        <h3>Exercises</h3>
+            <question multiplechoice>
+                csq_renderer = 'radio'
+                csq_prompt='John and Sam _____ 2 meters tall.'
+                csq_options=['is', 'are', 'arent', 'isnot']
+                csq_soln = 'are'
+            </question>
+            <question multiplechoice>
+                csq_renderer = 'radio'
+                csq_prompt='Tony _____ 1.5 meters ____-.'
+                csq_options=['are, tall', 'is, short', 'is, tall', 'are, short']
+                csq_soln = 2
+                csq_soln_mode = 'index' # (otherwies csq_soln = csq_options[0])
+            </question>
+    <h2>Level 1: Basics</h2>
+        <h3>Examples</h3>
+        <p>
+        John is <strong>taller than </strong>Tony.<br>
+        Sam is <strong>taller than </strong>Tony.  <br>
+        Tony is <strong>shorter</strong> <strong>than </strong>John.<br>
+        John is <strong>as tall as</strong> Sam. <br>
+        </p>
+        <h3>Exercises</h3>
+            <question multiplechoice>
+                csq_renderer = 'radio'
+                csq_prompt='Tony is _______ Sam.'
+                csq_options=['taller than', 'shorter than', 'as tall as', 'than shorter']
+                csq_soln = 1
+                csq_soln_mode = 'index' # (otherwies csq_soln = csq_options[0])
+            </question>
+            <question multiplechoice>
+                csq_renderer = 'radio'
+                csq_prompt='Sam is _______ John.'
+                csq_options=['taller than', 'shorter than', 'as tall as', 'than shorter']
+                csq_soln = 2
+                csq_soln_mode = 'index' # (otherwies csq_soln = csq_options[0])
+            </question>
+    </div>
+    <div class="image">
+        <img src="COURSE/grammar/comparisons/level-1.png" alt="Level 1">
+    </div>
+</div>
+
+<hr>
+
+<div class="container">
+    <div class="text">
+    <h2>Level 2: Modifiers</h2>
+        <p>
+        Carl is <strong>far taller</strong> than Tony.  <br>
+        Carl is <strong>much taller</strong> than Tony.  <br>
+        Alex is <strong>slightly taller</strong> than Tony.  <br>
+        Tony is <strong>not quite as tall as</strong> Alex. <br>
+        Tony is <strong>almost as tall as</strong> Alex. <br>
+        </p>
+        <h3>Exercises</h3>
+        <p>
+        <ol>
+        <li>Carl is __________ John.  
+        <li>Alex is <strong>not as </strong> __________ <strong>as</strong> Tony. 
+        </li>
+        </ol>
+        <question multiplechoice>
+            csq_renderer = 'radio'
+            csq_prompt='Carl is _______ John.'
+            csq_options=['far taller than', 'barely taller than', 'almost as tall as', 'than shorter']
+            csq_soln = 0
+            csq_soln_mode = 'index' # (otherwies csq_soln = csq_options[0])
+        </question>
+        <question multiplechoice>
+            csq_renderer = 'radio'
+            csq_prompt='Alex is <strong>not as </strong> __________ <strong>as</strong> Tony.'
+            csq_options=['tall', 'taller', 'short', 'shorter']
+            csq_soln = 3
+            csq_soln_mode = 'index' # (otherwies csq_soln = csq_options[0])
+        </question>
+        </p>
+    <h2>Level 3: Superlatives</h2>
+        <p>
+        Carl is <strong>the tallest</strong>.  
+        </p>
+        <h3>Exercises</h3>
+        <question smallbox>
+            csq_prompt = 'Tony is ______.'
+            csq_soln = 'the shortest'
+            csq_check_function = lambda sub, sol: sub.lower().strip() == sol.lower()
+            csq_size = 30 # width of text box
+        </question>
+    </div>
+    <div class="image">
+        <img src="COURSE/grammar/comparisons/level-2.png" alt="Level 2">
+    </div>
+</div>
+
+<hr>
+
+
+<h2>Level 4: making the –er, -est </h2>
+ 
+<table>
+  <tr>
+   <td>
+<strong>Adj</strong> 
+   </td>
+   <td>
+<strong>More</strong> 
+   </td>
+   <td>
+<strong>Less</strong> 
+   </td>
+   <td>
+<strong>Superlative</strong> 
+   </td>
+  </tr>
+  <tr>
+   <td>
+Tall
+   </td>
+   <td>
+taller 
+   </td>
+   <td>
+Less tall/ 
+<p>
+
+Not as tall as 
+   </td>
+   <td>
+tallest 
+   </td>
+  </tr>
+  <tr>
+   <td>
+Short 
+   </td>
+   <td>
+Shorter 
+   </td>
+   <td>
+Less short not as short as 
+   </td>
+   <td>
+shortest 
+   </td>
+  </tr>
+  <tr>
+   <td>
+Fast 
+   </td>
+   <td>
+Faster 
+   </td>
+   <td>
+Less fast, not as fast as 
+   </td>
+   <td>
+fastest 
+   </td>
+  </tr>
+  <tr>
+   <td>
+Slow 
+   </td>
+   <td>
+Slower 
+   </td>
+   <td>
+Less slow, not as slow as 
+   </td>
+   <td>
+slowest 
+   </td>
+  </tr>
+  <tr>
+   <td>
+Easy 
+   </td>
+   <td>
+Easier 
+   </td>
+   <td>
+Less easy 
+   </td>
+   <td>
+easiest 
+   </td>
+  </tr>
+  <tr>
+   <td>
+Beautiful  
+   </td>
+   <td>
+More beautiful 
+   </td>
+   <td>
+Less beautiful 
+   </td>
+   <td>
+Most beautiful 
+   </td>
+  </tr>
+  <tr>
+   <td>
+Expensive 
+   </td>
+   <td>
+More expensive 
+   </td>
+   <td>
+Less expensive 
+   </td>
+   <td>
+Most expensive 
+   </td>
+  </tr>
+</table>
+
+</p>
+<p>
+So, for long adjectives, we use "the most _____" or "least ____" or "more/less ____ than."  However, for short adjectives, we add: "-er" or "-est" to the end of the adjective. 
+</p>
+<h3>Exercises</h3>
+<p>'Make the comparatives (more and less) these words. Separate your answers by a comma (for example: "taller, less tall, tallest"): <br>
+        <question smallbox>
+            csq_prompt = "Cute: "
+            csq_soln = 'cuter, less cute, cutest'
+            csq_check_function = lambda sub, sol: sub.lower().replace(" ", "") == sol.lower().replace(" ", "")
+            csq_size = 30 # width of text box
+        </question>
+        <question smallbox>
+            csq_prompt = "Crazy: "
+            csq_soln = 'crazier, less crazy, craziest'
+            csq_check_function = lambda sub, sol: sub.lower().replace(" ", "") == sol.lower().replace(" ", "")
+            csq_size = 30 # width of text box
+        </question>
+        <question smallbox>
+            csq_prompt = "Nervous: "
+            csq_soln = 'more nervous, less nervous, most nervous'
+            csq_check_function = lambda sub, sol: sub.lower().replace(" ", "") == sol.lower().replace(" ", "")
+            csq_size = 30 # width of text box
+        </question>
+        <question smallbox>
+            csq_prompt = "Healthy: "
+            csq_soln = 'healthier, less healthy, healthiest'
+            csq_check_function = lambda sub, sol: sub.lower().replace(" ", "") == sol.lower().replace(" ", "")
+            csq_size = 30 # width of text box
+        </question>
+        <question smallbox>
+            csq_prompt = "Successful: "
+            csq_soln = 'more successful, less successful, most successful'
+            csq_check_function = lambda sub, sol: sub.lower().replace(" ", "") == sol.lower().replace(" ", "")
+            csq_size = 30 # width of text box
+        </question>
+        <question smallbox>
+            csq_prompt = "Usual: "
+            csq_soln = 'more usual, less usual, most usual'
+            csq_check_function = lambda sub, sol: sub.lower().replace(" ", "") == sol.lower().replace(" ", "")
+            csq_size = 30 # width of text box
+        </question>
+        <question smallbox>
+            csq_prompt = "Tense: "
+            csq_soln = 'tenser, less tense, most tense'
+            csq_check_function = lambda sub, sol: sub.lower().replace(" ", "") == sol.lower().replace(" ", "")
+            csq_size = 30 # width of text box
+        </question>
+        <question smallbox>
+            csq_prompt = "Tasty: "
+            csq_soln = 'tastier, less tasty, tastiest'
+            csq_check_function = lambda sub, sol: sub.lower().replace(" ", "") == sol.lower().replace(" ", "")
+            csq_size = 30 # width of text box
+        </question>
