@@ -1,0 +1,64 @@
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='That was very ___________ to yell at my mom. '
+    csq_options= ['maleducated', 'uneducated', 'impolite', 'polite']
+    csq_soln = 'impolite'
+    csq_explanation = 'In English, we don’t use “educated” the same way we do in Spanish. Instead, we use it to mean how much school you’ve received.'
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='The metro was an amazing ________ that allowed people to travel with freedom.'
+    csq_options= ['invention', 'intervention', 'incision', 'bottle']
+    csq_soln = 'invention'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='Boats ____ on the water'
+    csq_options= ['fly', 'surface', 'flote', 'float']
+    csq_soln = 'float'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I love both flavors. It’s hard for me to make a ______. '
+    csq_options= ['decider', 'decision', 'float', 'commision']
+    csq_soln = 'decision'
+    
+</question>
+
+<question smallbox>
+    csq_prompt='Sometimes, I don’t have the _______ to study, so I spend some time on TikTok. '
+    csq_soln = ['motivation']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='Can you give me an _______ for this problem?'
+    csq_options= ['explitation', 'explanation', 'explication', 'explagation']
+    csq_soln = 'explication'
+    csq_explanation = 'Careful, this is slightly different than “explicación.” In English the word is “explanation.”'
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'checkbox'
+    csq_prompt='More words have multiple ______.  (Check all that apply)'
+    csq_options= ['definitions', 'meanings', 'significants', 'significations']
+    csq_soln = [True, True, False, False]
+    csq_explanation = 'Both “definitions” and “meanings” work in this context. “Significado” does not have a cognate in English. '
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'checkbox'
+    csq_prompt='I _______ José Altuve because he’s also a short latino baseball player.  (Check all that apply)'
+    csq_options= ['identify for', 'identify with', 'look up to', 'look around']
+    csq_soln = [False, True, True, False]
+    
+</question>
+
