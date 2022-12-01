@@ -1,0 +1,136 @@
+Source Story: https://www.nytimes.com/2022/12/01/opinion/silicon-valley-zuckerberg-dorsey-nigeria-africa.html
+ 
+Jack Dorsey, the billionaire co-founder of Twitter, __(1, be)__ a major investor on the African continent. Meta’s C.E.O., Mark Zuckerberg, has heavily invested in tech start-ups in Nigeria. Earlier this year, The Economist __(2, declare)__ that Africa __(3,be)__ the only region in the world “not suffering from a slowdown in venture capital.”
+
+
+Where are the tangible benefits of this infusion of venture capital for everyday Africans?
+Developing nations in Africa __(4,experience, not yet)__ enduring political, economic or social development gains from Silicon Valley’s financial speculation. A worry still is that these nations __(5, see, never)__ any true benefits from tech investments until tech investors __(6, address)__ the lack of the basic infrastructure necessary to support business success.
+
+
+The promises of a tech boom seem particularly fantastical given the reality of life in these developing nations. A few months ago, I __(7, sit)__ in my home office in Lagos, Nigeria, __(8, conduct)__ an interview via Zoom when the electricity __(9, go out)__ for the second time that day. I would normally turn to the generator, but the generator __(10, run on)__ diesel, and I __(11, be able, not)__ to buy any the previous day because of a nationwide shortage. I __(12, spend)__ the rest of the evening in darkness. This was not an uncommon occurrence during my time as a U.S. Fulbright scholar there from 2021 to July 2022.
+
+
+The news that I __(13, choose)__ to spend a year as a Fulbright scholar in Nigeria was met with alarm by some. In the average American imagination, the entire African continent __(14, remain)__ shrouded in danger and deprivation. For some, the points of reference for Africa are the paternalistic, woebegone portrayals of a war-torn and poverty-stricken region in desperate need of Western resources — or the more malevolent depictions of a disease-ridden continent. Nigeria, in particular, __(15, be struck)__ with the label of being host to a sophisticated scam industry, despite research showing that the “Nigerian prince” wire fraud can now come from almost anywhere.
+ 
+
+
+<question smallbox>
+    csq_prompt='Number 1: '
+    csq_soln = ['is']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    
+</question>
+
+<question smallbox>
+    csq_prompt='Number 2:'
+    csq_soln = ['declared']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    
+</question>
+
+<question smallbox>
+    csq_prompt='Number 3: '
+    csq_soln = ['is', 'was']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    
+</question>
+
+<question smallbox>
+    csq_prompt='Number 4:'
+    csq_soln = ['have not yet experienced', 'haven’t yet experienced']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    
+</question>
+
+<question smallbox>
+    csq_prompt='Number 5:'
+    csq_soln = ['will never see', "'ll never see", 'won’t ever see']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    
+</question>
+
+<question smallbox>
+    csq_prompt='Number 6:'
+    csq_soln = ['address']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    
+</question>
+
+<question smallbox>
+    csq_prompt='Number 7:'
+    csq_soln = ['was sitting']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    
+</question>
+
+<question smallbox>
+    csq_prompt='Number 8:'
+    csq_soln = ['conducting']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    
+</question>
+
+<question smallbox>
+    csq_prompt='Number 9:'
+    csq_soln = ['went out']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    
+</question>
+
+<question smallbox>
+    csq_prompt='Number 10:'
+    csq_soln = ['runs on']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    csq_explanation = 'In this case the generator still runs on diesel, so we state this as if it were a habit'
+</question>
+
+<question smallbox>
+    csq_prompt='Number 11: '
+    csq_soln = ['had not been able to']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    
+</question>
+
+<question smallbox>
+    csq_prompt='Number 12: '
+    csq_soln = ['spent']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    
+</question>
+
+<question smallbox>
+    csq_prompt='Number 13: '
+    csq_soln = ['had chosen', 'chose']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    
+</question>
+
+<question smallbox>
+    csq_prompt='Number 14: '
+    csq_soln = ['remains']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    
+</question>
+
+<question smallbox>
+    csq_prompt='Number 15: '
+    csq_soln = ['has been struck', 'is struck']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    
+</question>
+
