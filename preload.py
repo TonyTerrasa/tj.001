@@ -22,10 +22,10 @@ phonetics = {'text': 'Phonetics', 'link': 'COURSE/phonetics'}
 
 making_questions = {'text': 'Questions', 'link': 'COURSE/grammar/making-questions'}
 comparisons = {'text': 'Comparisons', 'link': 'COURSE/grammar/comparisons'}
-mixedbag = {'text': 'Mixed Bag Exercises', 'link': 'COURSE/grammar/mixed-bag'}
 
 english_practice_links= {'text': 'Additional Exercises', 'link': 'COURSE/practice/english-practice-links'}
 hiphop = {'text': 'Hip Hop & Reggaeton', 'link': 'COURSE/practice/hiphop-musica-urbana'}
+mixedbag = {'text': 'Mixed Bag Exercises', 'link': 'COURSE/practice/mixed-bag'}
 transcriptions = {'text': 'Transcriptions', 'link': 'COURSE/practice/transcriptions'}
 
 halloween_craft_activity = {'text': 'Halloween TikTok Craft', 'link': 'COURSE/activities/halloween-tiktok'}
