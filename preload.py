@@ -22,7 +22,7 @@ phonetics = {'text': 'Phonetics', 'link': 'COURSE/phonetics'}
 
 making_questions = {'text': 'Questions', 'link': 'COURSE/grammar/making-questions'}
 comparisons = {'text': 'Comparisons', 'link': 'COURSE/grammar/comparisons'}
-mixedbag = {'text': 'Mixed Bag Exercise 1', 'link': 'COURSE/grammar/mixedbag-1'}
+mixedbag = {'text': 'Mixed Bag Exercises', 'link': 'COURSE/grammar/mixed-bag'}
 
 english_practice_links= {'text': 'Additional Exercises', 'link': 'COURSE/practice/english-practice-links'}
 hiphop = {'text': 'Hip Hop & Reggaeton', 'link': 'COURSE/practice/hiphop-musica-urbana'}
@@ -50,13 +50,13 @@ cs_top_menu = [
         {'text' : "Grammar", 'link': [
             comparisons,
             making_questions,
-            mixedbag,
             ]
          },
         phonetics, 
         {'text' : "Practice", 'link': [
             english_practice_links,
             hiphop,
+            mixedbag,
             transcriptions,
             ]
          },
