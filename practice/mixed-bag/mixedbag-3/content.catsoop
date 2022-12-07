@@ -1,0 +1,175 @@
+
+## Intro
+
+Emily Helena Ogle (born August 5, 1996) __(1, be)__ an American professional soccer player who plays as a midfielder for Houston Dash of the National Women's Soccer League (NWSL). She previously __(2, play)__ for Portland Thorns FC in the NWSL and the Penn State women's soccer team in college.
+
+Ogle __(3, be)__ a former United States youth international and she __(4, be nominated)__ for the 2016 U.S. Soccer Young Female Player of the Year award.
+
+<question smallbox>
+    csq_prompt='Number 1'
+    csq_soln = ['is']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 2'
+    csq_soln = ['played', 'has played']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 3'
+    csq_soln = ['is']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    csq_explanation = 'In this case, we use the present tense because of the word “former.” You either “are a former player” or you “were a player”'
+</question>
+
+<question smallbox>
+    csq_prompt='Number 4'
+    csq_soln = ['was nominated']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    csq_explanation = 'Since it refers to a specific year in the past, we use the simple past.'
+</question>
+
+## College career
+
+As a freshman at Penn State, Ogle __(5, start)__ all 24 games of the 2014 season for the Nittany Lions.<sup> </sup>During a match against West Virginia, she __(6, score)__ a goal and __(7, provide)__ an assist to __(8, lift)__ the team to a 3–1 win. She __(9, finish)__ the season __(10, play)__ 1,922 minutes, __(11, score)__ three goals and __(12, serve)__ four assists. Ogle __(13, score)__ the game-winning goal against Wisconsin the same year.
+
+<question smallbox>
+    csq_prompt='Number 5'
+    csq_soln = ['started']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 6'
+    csq_soln = ['scored']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 7'
+    csq_soln = ['provided']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 8'
+    csq_soln = ['lift']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 9'
+    csq_soln = ['finished']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 10'
+    csq_soln = ['having played']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 11'
+    csq_soln = ['scored', 'scoring']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    csq_explanation = 'Number 11 and 12 must be of the same for (either both -ing or both past participles)'
+</question>
+
+<question smallbox>
+    csq_prompt='Number 12'
+    csq_soln = ['served', 'serving']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    csq_explanation = 'Number 11 and 12 must be of the same for (either both -ing or both past participles)'
+</question>
+
+<question smallbox>
+    csq_prompt='Number 13'
+    csq_soln = ['scored']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+
+During her sophomore year, she __(14, help)__ Penn State __(15, advance)__ and __(16, win)__ the NCAA College Cup. She __(17, score)__ a goal and __(18, provide)__ an assist during the team's 4–0 victory over Ohio State in the third round of the tournament. She __(19, rank)__ fourth on the team in minutes played (2,098) and __(20, finish)__ the year with seven goals and five assists (19 points).
+
+<question smallbox>
+    csq_prompt='Number 14'
+    csq_soln = ['helped']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 15'
+    csq_soln = ['advance']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 16'
+    csq_soln = ['win']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 17'
+    csq_soln = ['scored']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 18'
+    csq_soln = ['provided']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 19'
+    csq_soln = ['ranked']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 20'
+    csq_soln = ['finished']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+Source Article (from Wikipedia): [https://en.wikipedia.org/wiki/Emily_Ogle](https://en.wikipedia.org/wiki/Emily_Ogle)
