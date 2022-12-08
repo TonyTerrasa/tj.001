@@ -1,0 +1,255 @@
+
+
+## Instructions: 
+
+These exercises are meant to help you with your **vocabulary**. 
+
+For each bolded word, fill in a new word according to the symbol:
+
+
+
+* (===) synonym 
+* (-->) related word
+* (<->) opposite
+
+
+#### Example:
+
+_Much like many of my __(1, === class)__ at university, the goal of this website is to __(2, <-> take away)__ students with __(3, --> explain)__ and novel ways to explore the content, in this case English._
+
+_Answers:_
+
+
+
+1. _courses_
+2. _provide_
+3. _explanations_
+
+
+## These exercises: 
+
+These exercises are taken from posts on the community [r/MicrosoftFlightSim](https://www.reddit.com/r/MicrosoftFlightSim/) on Reddit. 
+
+
+## Exercise 1: 
+
+
+### Help me decide between the Hondajet and the Vision jet!
+
+So because I might be getting a bit burned out from all the airliner __(1, === things)__ I’ve been doing, I figured a business jet (love that we’re flying carbon neutral on the sim lol) might be the way to go. There are no airliner __(2, --> restrict)__ (I like realistic roleplaying) so I can fly wherever I want.
+
+What I already know: Vision jet has a __(3, === pretty)__ windscreen, big __(4, <-> disadvantage)__ for me. Hondajet is __(5, <-> slower)__, which I also like.
+
+So it comes down to __(6, --> fly)__ dynamics, the thing I can’t test before buying. I really want stable flights, relatively easy approaches and __(7, <-> take-offs)__, and well trimmable for hand flying. I don’t like it at all when aircrafts oscillate __(8, <-> horizontally)__ when you’re trying to hand fly during cruise.
+
+So can anyone comment on these two flight models? Which is the most pleasant to hand fly?
+
+Thanks!
+
+[Original Post ](https://www.reddit.com/r/MicrosoftFlightSim/comments/zfqv7e/help_me_decide_between_the_hondajet_and_the/)
+
+<question smallbox>
+    csq_prompt='Number 1'
+    csq_soln = ['stuff']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    csq_explanation = 'Something like “activities” would also work in this context, but specifically as a synonym of “things,” “stuff” is the best answer'
+</question>
+
+<question smallbox>
+    csq_prompt='Number 2'
+    csq_soln = ['restrictions']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 3'
+    csq_soln = ['beautiful', 'lovely']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    csq_explanation = 'Lots of words you can put here :)'
+</question>
+
+<question smallbox>
+    csq_prompt='Number 4'
+    csq_soln = ['plus', 'advantage']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 5'
+    csq_soln = ['faster', 'quicker']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 6'
+    csq_soln = ['flight']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 7'
+    csq_soln = ['landings', 'landing']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 8'
+    csq_soln = ['vertically']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+
+## Exercise 2
+
+### Crashes after 5 mins or so of flight (4k)?
+
+Hi, I'll try to stick in as much __(9, === related)__ info as possible here.
+
+I recently __(10, === purchased)__ a 4k monitor (incrementally upgrading my setup and PC and it was on sale), and loaded up the flight sim. Did a __(11, === trial)__ flight around Italy with a jet and it went fine, frame rate was set around 35 FPS.
+
+Hopped back into my actual project (world tour, airport to airport in the cub x) and loaded into LRBS __(12, === place where planes take off)__ in Romania, flying to LBPR in Bulgaria. Took off and got flying and frames were decent. Game didn't feel like it was running slowly at all.
+
+To the __(13, <-> West)__ of the airport I hit a strip of chunks where the texture was a neon green and purple, almost like a standard no texture __(14, === problem)__ in another game, the ground around it was __(15, === alright)__ though. It loaded about 16 of those chunks in a 2x8 pattern and then the game crashed.
+
+Re-loaded the game and tried again with the Google maps plugin to see if that got rid of them and same thing, and crashed. Just wondering if I maybe need to scale back to 1080p until I __(16, <-> downgrade)__ my GPU (8GB 2070)?
+
+[Original Post](https://www.reddit.com/r/MicrosoftFlightSim/comments/zfum4c/crashes_after_5_mins_or_so_of_flight_4k/)
+
+
+<question smallbox>
+    csq_prompt='Number 9'
+    csq_soln = ['relevant', 'pertinent']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 10'
+    csq_soln = ['bought', 'got']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 11'
+    csq_soln = ['test']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 12'
+    csq_soln = ['airport']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 13'
+    csq_soln = ['east']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 14'
+    csq_soln = ['issue']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 15'
+    csq_soln = ['fine', 'good enough']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+    csq_explanation = 'This one, there’s probably a lot of answers as well as long as it means that it is not amazing, but not bad either'
+</question>
+
+<question smallbox>
+    csq_prompt='Number 16'
+    csq_soln = ['upgrade']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+
+## Exercise 3
+
+### Another F-18 landing question
+
+For some reason I seem to have __(17, <-> gained)__ the ability to __(18, --> stable)__ the F-18 for landing. I'll __(19, === lower)__ the gear and then __(20, === try)__ to trim it so that the velocity vector is in the E-bracket but as I trim the nose up, the bracket also moves higher on the HUD to the point where my plane wants to be at this __(21, <-> mild)__ nose-up angle.
+
+Anyone have any idea what I might be doing __(22, <-> correctly)__?
+
+[Original Post](https://www.reddit.com/r/MicrosoftFlightSim/comments/zfhnk1/another_f18_landing_question/)
+
+
+<question smallbox>
+    csq_prompt='Number 17'
+    csq_soln = ['lost']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 18'
+    csq_soln = ['stabilize']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 19'
+    csq_soln = ['drop', 'decrease']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 20'
+    csq_soln = ['attempt']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 21'
+    csq_soln = ['extreme']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 22'
+    csq_soln = ['wrong', 'incorrectly']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>

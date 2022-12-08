@@ -26,6 +26,7 @@ comparisons = {'text': 'Comparisons', 'link': 'COURSE/grammar/comparisons'}
 english_practice_links= {'text': 'Additional Exercises', 'link': 'COURSE/practice/english-practice-links'}
 hiphop = {'text': 'Hip Hop & Reggaeton', 'link': 'COURSE/practice/hiphop-musica-urbana'}
 mixedbag = {'text': 'Mixed Bag Exercises', 'link': 'COURSE/practice/mixed-bag'}
+contextual_vocabulary = {'text': 'Contexual Vocabulary Exercises', 'link': 'COURSE/practice/contextual-vocabulary'}
 transcriptions = {'text': 'Transcriptions', 'link': 'COURSE/practice/transcriptions'}
 
 halloween_craft_activity = {'text': 'Halloween TikTok Craft', 'link': 'COURSE/activities/halloween-tiktok'}
@@ -54,6 +55,7 @@ cs_top_menu = [
          },
         phonetics, 
         {'text' : "Practice", 'link': [
+            contextual_vocabulary,
             english_practice_links,
             hiphop,
             mixedbag,
