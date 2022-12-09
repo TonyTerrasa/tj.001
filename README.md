@@ -11,15 +11,17 @@ All of these having now be achieved, I'm moving towards:
 - [x] create and store student accounts
 - [x] how to direct the domain directly to the website, not to the CATSOOP home (might at some point submit this to the documentation)
 - [x] how go set up student accounts?
+- [ ] admin page to see student submission, account enrollment, etc
 - [ ] allow students to submit extended response questions to me so that I can read them on my own
-
-
-# Standing CATSOOP Questions
-
-- how to allow students to turn in files (like if I want to be able to listen to their audio)
-- can I have people record audio from their webbrowser and turn it in?
+- [ ] how to allow file submissions (like if I want to be able to listen to their audio)
  
 # Progress Log
+
+## December 9 2022
+Now at a relative point of fluency. I've been able to add a lot of class activities and even added practice exercises for both my private and in-school studetnts. These activities have answers-checkers. 
+
+I'm still not sure how I see the performance of my students on these exercises. For right now, it's not urgent, but a big goal moving forward is the to figure out account admin for if I want to use this structure moving forward for classes where I'm the head teacher.
+
 
 ## October 16 2022
 
