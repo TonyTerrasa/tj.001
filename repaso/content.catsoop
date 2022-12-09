@@ -1,0 +1,38 @@
+ <style>
+    .container {
+        display: flex;
+      }
+    .image {
+        order: 2;
+        flex: 1;
+    }
+    .text {
+        flex: 1;
+    }
+</style>
+
+<div class="text">
+    <h2>Class Expectations</h2>
+    <ol>
+        <li>At the start of the class, sit down in a seat in the 3A classroom
+        <li>There will be one group doing speaking each day
+        <li>If it is not your group’s turn, you can do may do what you want as long as you are quiet
+        <li>Fill your EXIT TICKET before you leave and give it to Tony
+    </li>
+    </ol>
+</div>
+
+<div class="container">
+    <div class="text">
+        <h2>Exit Ticket:</h2>
+        <ul>
+            <li>Name (nombre):
+            <li>Date (fecha):
+            <li>Today I.... (hoy yo...):
+        </li>
+        </ul>
+    </div>
+    <div class="image">
+    <img src="COURSE/repaso/sample-exit-ticket.png" alt="Sample Exit Ticket" width="500px">
+    </div>
+</div>

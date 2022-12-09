@@ -17,6 +17,7 @@ cs_markdown_ignore_tags = ('script', 'svg', 'textarea')
 # each dictionary defines one menu item and should contain two keys:
 #  * text: the text to show for the link
 #  * link: the target of the link (either a URL or another list of this same form)
+repaso = {'text': 'Repaso', 'link': 'COURSE/repaso'}
 resources= {'text': 'Resources', 'link': 'COURSE/resources'}
 phonetics = {'text': 'Phonetics', 'link': 'COURSE/phonetics'}
 
@@ -63,6 +64,7 @@ cs_top_menu = [
             ]
          },
         resources,
+        repaso,
 
 ]
 
