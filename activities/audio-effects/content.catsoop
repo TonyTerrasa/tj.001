@@ -226,42 +226,6 @@ But if this doesn't work, use <a href="COURSE/activities/audio-effects/reverb.mp
 <h2>Equalization (EQ)</h2>
 
 
-<p>
-Equalization edits the <em>frequencies</em> of the audio in the track. 
-</p>
-<ol>
-<li>Record yourself saying “this clean or dry, this has reverb”
-<li>Trim the silence and normalize the track 
-    <ol>
-    <li><strong><em>Highlight</em></strong> the silence
-    <li>Press Backspace
-    <li>Go to <em>Effects -> Normalize</em>
-    </li> 
-    </ol>
-<li>Cut the low frequencies of the psrt thst dsys “” 
-    <ol>
-    <li>Highlight the part where you say “”
-    <li>Click <em>Effects -> VST Effects -> EQ</em>
-    <li>Move the first 3 sliders to the bottom
-    <li>Click <em>Apply</em>
-    </li> 
-    </ol>
-<li>Do the same thing but for the top 3 slides and the middle 4 sliders for the sections with about the high and middle frequencies. Use the example as a guide.
-</li>
-</ol>
-
-<p>
-Upload the result! This is an example (but it should be in your voice)
-</p>
-
-<audio controls>
-  <source src="COURSE/activities/audio-effects/EQ.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-But if this doesn't work, use <a href="COURSE/activities/audio-effects/EQ.mp3">this link</a>
-
-
-
 <h2>Putting Audio in Google Slides</h2>
 Follow this YouTube video which explains how to insert audio into a Google Slide. In you current Google Slide presentation, add a slide which explains each effect we used today and contains your example. 
 
