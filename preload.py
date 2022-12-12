@@ -31,6 +31,7 @@ contextual_vocabulary = {'text': 'Contexual Vocabulary Exercises', 'link': 'COUR
 transcriptions = {'text': 'Transcriptions', 'link': 'COURSE/practice/transcriptions'}
 
 halloween_craft_activity = {'text': 'Halloween TikTok Craft', 'link': 'COURSE/activities/halloween-tiktok'}
+diy_dreidel_activity = {'text': 'DIY Dreidel Craft', 'link': 'COURSE/activities/diy-dreidel'}
 music_festival_activity = {'text': 'Music Festival', 'link': 'COURSE/activities/live-music'}
 perspectives_activity = {'text': 'Make Your Own Perspective', 'link': 'COURSE/activities/perspectives-3c'}
 lifestyle_activity = {'text': 'What is Lifestyle?', 'link': 'COURSE/activities/lifestyle'}
@@ -41,6 +42,7 @@ audio_effects_activity = {'text': 'Audio Effects', 'link': 'COURSE/activities/au
 cs_top_menu = [
         {'text' : "Class Activities", 'link': [
             audio_effects_activity,
+            diy_dreidel_activity,
             halloween_craft_activity,
             generative_ai_activity,
             perspectives_activity,
