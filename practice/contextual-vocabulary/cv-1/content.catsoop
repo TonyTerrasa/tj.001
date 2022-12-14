@@ -172,7 +172,7 @@ Re-loaded the game and tried again with the Google maps plugin to see if that go
 
 <question smallbox>
     csq_prompt='Number 14'
-    csq_soln = ['issue']
+    csq_soln = ['issue', 'bug']
     csq_check_function = lambda sub, sol: sub.lower().strip() in sol
     csq_size = 30 # width of text box
 
