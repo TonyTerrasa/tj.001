@@ -1,0 +1,366 @@
+## Instructions: 
+
+These exercises are meant to help you with your **vocabulary**. 
+
+For each bolded word, fill in a new word according to the symbol:
+
+
+
+* (===) synonym 
+* (-->) related word
+* (<->) opposite
+
+
+#### Example:
+
+_Much like many of my (1, === class) at university, the goal of this website is to (2, <-> take away) students with (3, --> explain) and novel ways to explore the content, in this case English._
+
+_Answers:_
+1. _courses_
+2. _provide_
+3. _explanations_
+
+
+## These exercises: 
+
+These exercises are taken from posts on the community [r/buildapc](https://www.reddit.com/r/buildapc/) on Reddit. 
+
+
+## Exercise 1: 
+
+
+#### Does __(1, --> pay)__ $2050USD for the __(2, <-> most expensive)__ 4090 make any sense? Australia tax is awful
+
+Looking to build a gaming rig to last me five __(3, === or more)__ years without __(4, --> need)__ to upgrade. I have two 32" 4K 120hz gaming monitors and play AAA titles.
+
+My budget is about $6,000AUD max but Australian's pay through the nose for PC parts, particularly GPU's.
+
+<question smallbox>
+    csq_prompt='Number 1'
+    csq_soln = ['paying']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 2'
+    csq_soln = ['cheapest', 'least expensive']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 3'
+    csq_soln = ['plus']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 4'
+    csq_soln = ['needing', 'the need']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+The cheapest 4090 is \$3,000 (\$2,050 USD). The cheapest 4080 is \$2,000 (\$1,370 USD) and the 7900XTX, when briefly available, was \$1,780 (\$1,220 USD). Us Aussies get reemed when it comes to GPU prices and it throws most of the cost to performance discussions I read on here out of the equation as I can't compare prices. The last option I'm considering is a 3080 TUF for \$1,250 (\$850 USD).
+
+I'd love to hear people's thoughts on where the best price to __(5, --> perform)__ ratio actually sits given Australian GPU prices. I have no brand __(6, --> affiliate)__, no kids and money isn't tight, however I don't want to throw money at FPS that are stupidly overpriced. I look forward to hearing thoughts from __(7, --> use)__ around the world.
+
+[Original Post ](https://www.reddit.com/r/buildapc/comments/zlqd8h/does_paying_2050usd_for_the_cheapest_4090_make/)
+
+<question smallbox>
+    csq_prompt='Number 5'
+    csq_soln = ['peformance']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 6'
+    csq_soln = ['affiliation']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 7'
+    csq_soln = ['users']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+## Exercise 2
+
+
+#### Looking for final __(8, --> think)__ __(9, <-> after)__ I buy (i7-13700K, RTX 4080)
+
+
+I've __(10, --> post)__ here a couple __(11, === occasions)__ before, but I wanted to get some __(12, <-> initial)__ thoughts before I finally buy everything. Basically, I have a ton of money sitting in an __(13, --> educate)__ account that is going to go to __(14, <-> spend well)__ if I don't spend it while I'm in __(15, === university)__, so I figured before I __(16, === finish school)__ I should take a bunch of it out to buy a computer that will last for a long time. I do __(17, <-> a little bit)__ of editing in Premiere & After Effects, __(18, === frequently)__ with 4K footage, and some light __(19, --> game)__ every now and then. You can find the parts list [here](https://pcpartpicker.com/list/7RHpLs)
+
+
+<question smallbox>
+    csq_prompt='Number 8'
+    csq_soln = ['thoughts']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 9'
+    csq_soln = ['before']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 10'
+    csq_soln = ['posted']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 11'
+    csq_soln = ['times']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 12'
+    csq_soln = ['final', 'finishing']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 13'
+    csq_soln = ['education', 'educational']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 14'
+    csq_soln = ['waste']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 15'
+    csq_soln = ['college', 'school']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 16'
+    csq_soln = ['graduate', 'get my degree']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 17'
+    csq_soln = ['a lot', 'a bunch', 'a ton']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 18'
+    csq_soln = ['usually', 'often', 'typically']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 19'
+    csq_soln = ['gaming', 'game playing']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<table style="border: 1px solid black">
+  <tr style="border: 1px solid black">
+   <td>Type
+   </td>
+   <td>Item
+   </td>
+   <td>Price
+   </td>
+  </tr>
+  <tr>
+   <td>CPU
+   </td>
+   <td><a href="https://pcpartpicker.com/product/Mm6p99/intel-core-i7-13700k-34-ghz-16-core-processor-bx8071513700k">Intel Core i7-13700K 3.4 GHz 16-Core Processor</a>
+   </td>
+   <td>$429.97 @ Newegg
+   </td>
+  </tr>
+  <tr>
+   <td>CPU Cooler
+   </td>
+   <td><a href="https://pcpartpicker.com/product/hYxRsY/thermalright-peerless-assasin-120-se-6617-cfm-cpu-cooler-pa120-se-d3">Thermalright Peerless Assasin 120 SE 66.17 CFM CPU Cooler</a>
+   </td>
+   <td>$35.90 @ Amazon
+   </td>
+  </tr>
+  <tr>
+   <td>Motherboard
+   </td>
+   <td><a href="https://pcpartpicker.com/product/X6mmP6/msi-mag-z690-tomahawk-wifi-ddr4-atx-lga1700-motherboard-mag-z690-tomahawk-wifi-ddr4">MSI MAG Z690 TOMAHAWK WIFI DDR4 ATX LGA1700 Motherboard</a>
+   </td>
+   <td>$259.99 @ Amazon
+   </td>
+  </tr>
+  <tr>
+   <td>Memory
+   </td>
+   <td><a href="https://pcpartpicker.com/product/kXbkcf/gskill-ripjaws-v-32-gb-2-x-16-gb-ddr4-3200-cl16-memory-f4-3200c16d-32gvk">G.Skill Ripjaws V 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory</a>
+   </td>
+   <td>$84.99 @ Newegg
+   </td>
+  </tr>
+  <tr>
+   <td>Memory
+   </td>
+   <td><a href="https://pcpartpicker.com/product/kXbkcf/gskill-ripjaws-v-32-gb-2-x-16-gb-ddr4-3200-cl16-memory-f4-3200c16d-32gvk">G.Skill Ripjaws V 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory</a>
+   </td>
+   <td>$84.99 @ Newegg
+   </td>
+  </tr>
+  <tr>
+   <td><b>(20, --> store)</b>
+   </td>
+   <td><a href="https://pcpartpicker.com/product/C3xbt6/team-mp33-2-tb-m2-2280-nvme-solid-state-drive-tm8fp6002t0c101">TEAMGROUP MP33 2 TB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive</a>
+   </td>
+   <td>$117.99 @ Amazon
+   </td>
+  </tr>
+  <tr>
+   <td>Video Card
+   </td>
+   <td><a href="https://pcpartpicker.com/product/6nWzK8/nvidia-founders-edition-geforce-rtx-4080-16-gb-video-card-900-1g136-2560-000">NVIDIA Founders Edition GeForce RTX 4080 16 GB Video Card</a>
+   </td>
+   <td>$1199.99
+   </td>
+  </tr>
+  <tr>
+   <td>Case
+   </td>
+   <td><a href="https://pcpartpicker.com/product/c7jBD3/nzxt-h7-flow-atx-mid-tower-case-cm-h71fb-01">NZXT H7 Flow ATX Mid Tower Case</a>
+   </td>
+   <td>$129.99 @ NZXT
+   </td>
+  </tr>
+  <tr>
+   <td>Power Supply
+   </td>
+   <td><a href="https://pcpartpicker.com/product/jRvdnQ/corsair-rm1000x-2021-1000-w-80-gold-certified-fully-modular-atx-power-supply-cp-9020201-na">Corsair RM1000x (2021) 1000 W 80+ Gold Certified Fully Modular ATX Power Supply</a>
+   </td>
+   <td>$189.99 @ Amazon
+   </td>
+  </tr>
+  <tr>
+   <td>Prices include shipping, taxes, rebates, and discounts
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr style="border: 1px solid black">
+   <td>Total
+   </td>
+   <td>$2533.80
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Generated by <a href="https://pcpartpicker.com/">PCPartPicker</a> 2022-12-14 00:18 EST-0500
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+
+Only thing to note is that I'm finding it __(21, <-> possible)__ to find RTX 4080s anywhere __(22, === on the internet)__ that aren't either ~$1400 or __(23, --> absolute)__ hideous to look at [looking at you Zotac]. My __(24, === idea for what to do)__ is to try to find one at a local Best Buy.
+
+Any and all __(25, --> criticize)__ is much appreciated. Thank you.
+
+[Original Post ](https://www.reddit.com/r/buildapc/comments/zliik3/looking_for_final_thoughts_before_i_buy_i713700k/)
+
+
+<question smallbox>
+    csq_prompt='Number 20'
+    csq_soln = ['storage']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 21'
+    csq_soln = ['impossible']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 22'
+    csq_soln = ['online', 'on the web']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 23'
+    csq_soln = ['absolutely']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 24'
+    csq_soln = ['plan', 'intention']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
+
+<question smallbox>
+    csq_prompt='Number 25'
+    csq_soln = ['criticism']
+    csq_check_function = lambda sub, sol: sub.lower().strip() in sol
+    csq_size = 30 # width of text box
+
+</question>
