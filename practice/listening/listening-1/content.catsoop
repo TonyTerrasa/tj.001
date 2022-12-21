@@ -1,0 +1,57 @@
+
+<h2>Audio 1: </h2>
+<p>
+You are about to hear part of a podcast between fashion influencer Drew Joiner and artist Aria Mizuhara .... This is the introduction to the podcast.
+</p>
+<figure>
+    <figcaption>Listen to the T-Rex:</figcaption>
+    <audio
+        controls
+        src="COURSE/practice/listening/listening-1/listening-1-pt1.mp3">
+    </audio>
+</figure>
+
+If the audio isn't working, you can download it <a href="COURSE/practice/listening/listening-1/listening-1-pt1.mp3">here</a>
+
+<h4>True/False: </h4>
+<p>
+Enter true or false for each of the statements. Think how you would correct the statement. 
+</p>
+<question multiplechoice>
+    csq_prompt='Drew met Aria in San Francisco'
+    csq_options= ['True', 'False']
+    csq_soln = 'True'
+</question>
+<question multiplechoice>
+    csq_prompt='Drew did not meet Aria on a business trip'
+    csq_options= ['True', 'False']
+    csq_soln = 'True'
+</question>
+<question multiplechoice>
+    csq_prompt='Drew\'s girlfriend is from Sweden'
+    csq_options= ['True', 'False']
+    csq_soln = 'False'
+    csq_explanation = 'Drew says his girlfriend is Swiss. Swiss people are from Switzerland, not Sweden. So, Drew\'s girlfriend is from Switzerland.'
+</question>
+<question multiplechoice>
+    csq_prompt='Drew has been to Aria’s store.'
+    csq_options= ['True', 'False']
+    csq_soln = 'True'
+</question>
+<question multiplechoice>
+    csq_prompt='The name of Aria’s store is "Contemporary Art"'
+    csq_options= ['True', 'False']
+    csq_soln = 'False'
+    csq_explanation = 'The name is "Cotton Sheep"'
+</question>
+
+
+<h4>Write a synonym for the following words from the text:</h4>
+
+<ul>
+<li>Happen to 
+<li>Goofy
+<li>Pop in
+<li>Rundown
+</li>
+</ul>
