@@ -30,6 +30,7 @@ mixedbag = {'text': 'Mixed Bag Exercises', 'link': 'COURSE/practice/mixed-bag'}
 contextual_vocabulary = {'text': 'Contexual Vocabulary Exercises', 'link': 'COURSE/practice/contextual-vocabulary'}
 listening = {'text': 'Listening', 'link': 'COURSE/practice/listening'}
 transcriptions = {'text': 'Transcriptions', 'link': 'COURSE/practice/transcriptions'}
+trimester2_3c = {'text': '3C Trimester 2 Vocab Review', 'link': 'COURSE/practice/3c-trimester2'}
 
 halloween_craft_activity = {'text': 'Halloween TikTok Craft', 'link': 'COURSE/activities/halloween-tiktok'}
 diy_dreidel_activity = {'text': 'DIY Dreidel Craft', 'link': 'COURSE/activities/diy-dreidel'}
@@ -39,6 +40,10 @@ lifestyle_activity = {'text': 'What is Lifestyle?', 'link': 'COURSE/activities/l
 tjlandia_activity = {'text': 'Teejaylandia', 'link': 'COURSE/activities/teejaylandia'}
 generative_ai_activity = {'text': 'Generative AI Competition', 'link': 'COURSE/activities/generative-ai/'}
 audio_effects_activity = {'text': 'Audio Effects', 'link': 'COURSE/activities/audio-effects/'}
+
+
+
+
 
 cs_top_menu = [
         {'text' : "Class Activities", 'link': [
@@ -65,6 +70,7 @@ cs_top_menu = [
             listening,
             mixedbag,
             transcriptions,
+            trimester2_3c,
             ]
          },
         resources,

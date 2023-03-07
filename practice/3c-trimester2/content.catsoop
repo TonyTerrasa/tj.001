@@ -1,0 +1,612 @@
+
+Here you have a ton of resouces for practicing the vocabulary for trimester 2. 
+
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='Can you __________ the table while I finish cooking dinner?'
+    csq_options= ['sort', 'clear up', 'put away', 'fold']
+    csq_soln = 'clear up'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I need to __________ my bike tire before we can go for a ride.'
+    csq_options= ['wash up', 'sweep', 'fix', 'let']
+    csq_soln = 'fix'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'checkbox'
+    csq_prompt='Please __________ the clothes before you put them in the closet.'
+    csq_options= ['sort', 'load', 'fold', 'wipe']
+    csq_soln = [True, False, True, False]
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I can\'t __________ this box by myself. Can you give me a hand?'
+    csq_options= ['sweep', 'put away', 'load', 'fix']
+    csq_soln = 'fix'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='After you finish using the scissors please remember to __________ them __________.'
+    csq_options= ['put / away', 'wash up / fix', 'wipe / clear up', 'fold / sweep']
+    csq_soln = 'put / away'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='Let\'s __________ these toys into different piles based on their color.'
+    csq_options= ['put away', 'sweep', 'sort', 'fix']
+    csq_soln = 'sort'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I\'m going to __________ the kitchen floor before our guests arrive.'
+    csq_options= ['wipe', 'load', 'sweep', 'let']
+    csq_soln = 'sweep'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='Who\'s going to __________ the dishes after dinner tonight?'
+    csq_options= ['clear up', 'fold', 'let', 'fix']
+    csq_soln = 'clear up'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='Don\'t forget to __________ the counter after you finish preparing the vegetables.'
+    csq_options= ['load', 'sweep', 'clear up', 'fix']
+    csq_soln = 'clear up'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='Children under 12 are not __________ to ride the roller coaster alone.'
+    csq_options= ['allowed', 'let', 'made', 'folded']
+    csq_soln = 'allowed'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='Can you __________ me know if you\'re coming to the party tomorrow?'
+    csq_options= ['sort', 'clear up', 'let', 'fix']
+    csq_soln = 'let'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I\'m going to __________ you play with your friends after you finish your homework.'
+    csq_options= ['let', 'fold', 'clear up', 'put away']
+    csq_soln = 'let'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I\'m going to __________ my daughter practice her violin every day after school.'
+    csq_options= ['clear up', 'make', 'put away', 'sweep']
+    csq_soln = 'make'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='The teacher will __________ the students read a book for 20 minutes every day.'
+    csq_options= ['sort', 'allow', 'put away', 'wash up']
+    csq_soln = 'allow'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I need to __________ and relax after a busy day at work.'
+    csq_options= ['photograph', 'chill out', 'get a tan', 'cruise']
+    csq_soln = 'chill out'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='After an intense hike  we need to __________ and rest for a while.'
+    csq_options= ['wander around', 'cool down', 'take a selfie', 'sign up for']
+    csq_soln = 'cool down'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I\'m going to __________ by renting a car to explore the countryside.'
+    csq_options= ['stop over', 'get away', 'get around', 'stay over']
+    csq_soln = 'get away'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I want to __________ to see the beautiful scenery on this island.'
+    csq_options= ['go trekking', 'check in', 'look around', 'stay up']
+    csq_soln = 'go trekking'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='She loves to go to the beach and __________ with her friends on weekends.'
+    csq_options= ['check out', 'stay up', 'get a tan', 'photograph']
+    csq_soln = 'get a tan'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='We can __________ the city by taking a guided tour.'
+    csq_options= ['hire', 'see off', 'get around', 'cruise']
+    csq_soln = 'get around'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='Can we  __________ the city when I visit next week?'
+    csq_options= ['get away', 'take around', 'look around', 'staying over']
+    csq_soln = 'look around'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I need to __________ of my hotel early in the morning to catch my flight.'
+    csq_options= ['stop over', 'check in', 'check out', 'wander around']
+    csq_soln = 'check out'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='Let\'s __________ with some drinks and a chat by the pool.'
+    csq_options= ['socialize', 'take a selfie', 'cruise', 'get away']
+    csq_soln = 'socialize'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I\'m going to __________ my friends at the airport tomorrow.'
+    csq_options= ['cruise', 'see off', 'stay up', 'wander around']
+    csq_soln = 'see off'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='The author created a __________ that captivates the reader\'s attention from the beginning.'
+    csq_options= ['predictable plot', 'stunning illustration', 'minor character', 'opening chapter']
+    csq_soln = 'opening chapter'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='She is __________ playing video games for hours at a time.'
+    csq_options= ['annoyed by', 'furious with', 'addicted to', 'surprised at']
+    csq_soln = 'addicted to'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'checkbox'
+    csq_prompt='I\'m __________ the results of the final exam.'
+    csq_options= ['annoyed by', 'furious with', 'nervous about', 'surprised at']
+    csq_soln = [True, True, True, True]
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='He was __________ with the service at the restaurant and left without paying.'
+    csq_options= ['disappointed', 'sad', 'addicted', 'surprised']
+    csq_soln = 'disappointed'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='The movie\'s __________ was easy to figure out within the first 10 minutes.'
+    csq_options= ['predictable plot', 'stunning illustration', 'major role', 'complex issue']
+    csq_soln = 'predictable plot'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='The __________ in the play had only a few lines  but made a big impact on the audience.'
+    csq_options= ['major role', 'complex issue', 'predictable plot', 'minor character']
+    csq_soln = 'minor character'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='The __________ in this painting is really beautiful.'
+    csq_options= ['predictable plot', 'stunning illustration', 'major role', 'complex issue']
+    csq_soln = 'stunning illustration'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I\'m going to __________ my family off at the airport tomorrow morning.'
+    csq_options= ['look around', 'stay over', 'see off', 'stop over']
+    csq_soln = 'see off'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='After finishing his work  he likes to __________ around the city and explore new neighborhoods.'
+    csq_options= ['wander around', 'stay up', 'take a selfie', 'sign up for']
+    csq_soln = 'wander around'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='We played board games to __________ after a long day at work.'
+    csq_options= ['chill out', 'go trekking', 'get a tan', 'check in']
+    csq_soln = 'chill out'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='It was such a __________ that it brought tears to my eyes.'
+    csq_options= ['opening chapter', 'minor character', 'predictable plot', 'moving novel']
+    csq_soln = 'moving novel'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I\'m going to __________ for the photography class at the community center.'
+    csq_options= ['go trekking', 'check in', 'get a tan', 'sign up']
+    csq_soln = 'sign up'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='He __________ me to borrow his car for the weekend.'
+    csq_options= ['let', 'make', 'allow', 'put away']
+    csq_soln = 'let'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='We __________ the beach so we can remember it later.'
+    csq_options= ['photographed', 'chilled out', 'got a tan', 'cruised']
+    csq_soln = 'photographed'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='After our flight was cancelled  we had to __________ in a hotel overnight.'
+    csq_options= ['get around', 'stay up', 'stay over', 'check in']
+    csq_soln = 'stay over'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='The travel agency suggested that we __________ the Great Barrier Reef on a boat.'
+    csq_options= ['cruise', 'check in', 'take a selfie', 'get away']
+    csq_soln = 'cruise'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I __________ my soup before my main course.'
+    csq_options= ['ate up', 'ate out', 'fill up on', 'went off']
+    csq_soln = 'ate up'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='He __________ the water in the microwave for a minute.'
+    csq_options= ['cut out', 'heated up', 'lived on', 'went off']
+    csq_soln = 'heated up'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='She __________ cut her finger while cooking dinner.'
+    csq_options= ['basically', 'completely', 'accidentally', 'deeply']
+    csq_soln = 'accidentally'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I\'m __________ tired after hiking up the mountain.'
+    csq_options= ['incredibly', 'merely', 'typically', 'deeply']
+    csq_soln = 'incredibly'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='He __________ spends his weekends playing video games.'
+    csq_options= ['physically', 'necessarily', 'usually', 'completely']
+    csq_soln = 'usually'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='They __________ ate the entire pizza by themselves.'
+    csq_options= ['ate up', 'heated up', 'cut out', 'cooled down']
+    csq_soln = 'ate up'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='The athlete needed to __________ after the race.'
+    csq_options= ['eat out', 'cool down', 'cut out', 'fill up on']
+    csq_soln = 'cool down'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I __________ rely on coffee to wake me up in the morning.'
+    csq_options= ['sensibly', 'typically', 'deeply', 'terribly']
+    csq_soln = 'typically'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='The movie\'s plot __________ shifted in the middle.'
+    csq_options= ['dramatically', 'basically', 'loosely', 'merely']
+    csq_soln = 'dramatically'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='The book __________ captivated my attention from the first page.'
+    csq_options= ['extremely', 'sensibly', 'typically', 'necessarily']
+    csq_soln = 'extremely'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I\'m __________ late for my appointment.'
+    csq_options= ['deeply', 'terribly', 'typically', 'completely']
+    csq_soln = 'terribly'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='She __________ finished her homework before dinner.'
+    csq_options= ['basically', 'completely', 'merely', 'terribly']
+    csq_soln = 'completely'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='The waiter __________ brought the wrong order to our table.'
+    csq_options= ['accidentally', 'deeply', 'typically', 'necessarily']
+    csq_soln = 'accidentally'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I don\'t __________ agree with your opinion on the matter.'
+    csq_options= ['sensibly', 'necessarily', 'completely', 'merely']
+    csq_soln = 'necessarily'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='The company\'s profits __________ increased in the past year.'
+    csq_options= ['dramatically', 'terribly', 'typically', 'deeply']
+    csq_soln = 'dramatically'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='She got the job __________ because her father owns the company.'
+    csq_options= ['basically', 'completely', 'merely', 'typically']
+    csq_soln = 'merely'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='She\'s __________ allergic to peanuts.'
+    csq_options= ['deeply', 'terribly', 'typically', 'completely']
+    csq_soln = 'terribly'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I\'m __________ excited for the weekend.'
+    csq_options= ['basically', 'completely', 'merely', 'extremely']
+    csq_soln = 'extremely'
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='He __________ sugar to improve his health.'
+    csq_options= ['basically', 'completely', 'cut out', 'go off']
+    csq_soln = 'cut out'
+</question>
+
+
+
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I need to __________ money from the bank to pay for the new laptop.'
+    csq_options= ['take out', 'allowance', 'pay off', 'cashpoint']
+    csq_soln = 'take out'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='She\'s __________ after spending all her money on clothes.'
+    csq_options= ['wealthy', 'short of cash', 'bargain', 'savings']
+    csq_soln = 'short of cash'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I need to enter my __________ before I can use the card.'
+    csq_options= ['debit card', 'PIN', 'cashpoint', 'balance']
+    csq_soln = 'PIN'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='He\'s __________ now that he has a steady job and can pay his bills.'
+    csq_options= ['financially independent', 'savings', 'wealthy', 'budget']
+    csq_soln = 'financially independent'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I only have a __________ options to choose from for my new phone.'
+    csq_options= ['limited number of', 'considerable number of', 'record number of', 'unlimited number of']
+    csq_soln = 'limited number of'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'checkbox'
+    csq_prompt='There\'s been a __________ people attending the now popular conference.'
+    csq_options= ['reduced number of', 'growing number of', 'increasing number of', 'limited number of']
+    csq_soln = [False, True, True, False]
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I need to __________ how much I\'m spending each month to stay within my __________.'
+    csq_options= ['watch / budget', 'balance / account', 'wealthy / wealth', 'spend / allowance']
+    csq_soln = 'watch / budget'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='The __________ people using the new app is impressive.'
+    csq_options= ['a number of', 'the number of', 'considerable number of', 'limited number of']
+    csq_soln = 'considerable number of'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I need to check my __________ before I can withdraw any money from the ATM.'
+    csq_options= ['debit card', 'PIN', 'balance', 'cashpoint']
+    csq_soln = 'balance'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='She\'s made a __________ on the purchase of her new car.'
+    csq_options= ['wealthy', 'bargain', 'savings', 'budget']
+    csq_soln = 'bargain'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'checkbox'
+    csq_prompt='There\'s a __________ 10 people for the tour.'
+    csq_options= ['minimum number of', 'maximum number of', 'unlimited number of', 'record number of']
+    csq_soln = [True, True, False, False]
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='The __________ students enrolled in the course has increased this semester.'
+    csq_options= ['reduced number of', 'growing number of', 'limited number of', 'record number of']
+    csq_soln = 'growing number of'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I need to enter my __________ to access my account.'
+    csq_options= ['PIN', 'debit card', 'cashpoint', 'balance']
+    csq_soln = 'PIN'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='He\'s managed to __________ his debts and is now debt-free.'
+    csq_options= ['budget', 'pay off', 'savings', 'wealthy']
+    csq_soln = 'pay off'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='There\'s been __________ tourists visiting the city.'
+    csq_options= ['growing number of', 'a number of', 'limited number of', 'unlimited number of']
+    csq_soln = 'a number of'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='The company achieved a __________ sales this quarter.'
+    csq_options= ['record number of', 'considerable number of', 'unlimited number of', 'limited number of']
+    csq_soln = 'record number of'
+    
+</question>
+
+<question multiplechoice>
+    csq_renderer = 'radio'
+    csq_prompt='I need a lot of __________ to be able to buy a house.'
+    csq_options= ['budget', 'savings', 'wealthy', 'allowance']
+    csq_soln = 'savings'
+    
+</question>
